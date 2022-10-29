@@ -47,19 +47,21 @@ class Firefighters extends Transcripts {
         var epsSpan = document.getElementById("epResults");
         var file = 'ls_s02e03.txt';
         var found = false;
+        var text;
         jQuery.ajax({
             url:file,
             success: function (data) {
-                if (data.toLowerCase().includes(phrase)) {
-                    found = true;
-                    epsSpan.innerHTML += "<a href=\"#epLS2.03\" class=\"eplink\">LS-2.03</a> ";
-                    if (showContext) {
-                        this.parseContext(phrase, "LS 2.03 - Hold the Line", "LS2.03", data);
-                    }
-                }
+                text = data;
             },
             async: false
         });
+        if (text.toLowerCase().includes(phrase)) {
+            found = true;
+            epsSpan.innerHTML += "<a href=\"#epLS2.03\" class=\"eplink\">LS-2.03</a> ";
+            if (showContext) {
+                this.parseContext(phrase, "LS 2.03 - Hold the Line", "LS2.03", text);
+            }
+        }
         return found;
     }
 
