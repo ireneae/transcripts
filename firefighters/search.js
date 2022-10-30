@@ -43,6 +43,14 @@ class Firefighters extends Transcripts {
         }
     }
 
+    getPermalink() {
+        const params = new URLSearchParams();
+        params.set('q', document.getElementById("phrase").value.toLowerCase())
+        params.set('context', document.getElementById('contextToggle').checked);
+        params.set('crossover', document.getElementById("crossoverToggle").checked);
+        return window.location.pathname + "?" + params.toString();
+    }
+
     queryLoneStar(phrase, showContext) {
         var epsSpan = document.getElementById("epResults");
         var file = 'ls_s02e03.txt';
