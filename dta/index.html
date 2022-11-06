@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="robots" content="noindex">
+	<title>DTA Transcript Search</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script type="module">
+		import { search } from "./search.js";
+		import { showDetailed } from "../search.js";
+  		window.search = search;
+  		window.showDetailed = showDetailed;
+  	</script>
+	<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+	<h1>Down to Agincourt Transcript Search</h1>
+	<div class="settings">
+		<div class="setting">
+			<label for="phrase">Phrase:</label>
+			<input type="text" id="phrase" name="phrase" required size="12">
+			<button class="ss" id="search" onclick="search()">Search</button></div>
+		<div class="setting">
+			<label for="contextToggle">Search transcripts for context?</label>
+			<input type="checkbox" id="contextToggle" checked="true"></div>
+		<div class="setting">
+			<label for="motwToggle">Map of the World</label>
+			<input type="checkbox" id="motwToggle" checked="true"></div>
+		<div class="setting">
+			<label for="itstlToggle">It's the Stars That Lie</label>
+			<input type="checkbox" id="itstlToggle" checked="true"></div>
+		<div class="setting">
+			<label for="tlisToggle">A Thousand Lights in Space</label>
+			<input type="checkbox" id="tlisToggle" checked="true"></div>
+		<div class="setting">
+			<label for="gogToggle">A Game of God</label>
+			<input type="checkbox" id="gogToggle" checked="true"></div>
+		<div class="setting">
+			<label for="tfkToggle">The Forever King</label>
+			<input type="checkbox" id="tfkToggle"></div></div>
+	<div class="resultsdiv"><span id="epResults"></span></div>
+	<div class="contextdiv"><span id="contextResults"></span></div>
+	<div class="footer">
+		Original work by <a href=https://archiveofourown.org/series/110651>seperis</a>.<br /><br />
+		<a href=https://ireneae.tumblr.com>ireneae.tumblr.com</a><br />
+		See also: <a href=http://ireneae.github.io/transcripts/spn>Supernatural Transcript Search</a></div>
+</body>
+</html>
