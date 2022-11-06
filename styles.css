@@ -35,7 +35,7 @@ label {
 }
 
 div {
-    min-width: 350px;
+    min-width: 300px;
 }
 
 #title {
@@ -46,6 +46,13 @@ div {
 .settings {
     margin: auto;
     display: block;
+}
+
+.settingtog {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
 }
 
 .setting {
