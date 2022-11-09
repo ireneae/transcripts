@@ -82,7 +82,6 @@ class DTA extends Transcripts {
         });
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
-        this.readParam(urlParams, 'context');
         this.readParam(urlParams, 'motw');
         this.readParam(urlParams, 'tlis');
         this.readParam(urlParams, 'itstl');
@@ -98,7 +97,6 @@ class DTA extends Transcripts {
     getPermalink() {
         const params = new URLSearchParams();
         params.set('q', document.getElementById("phrase").value.toLowerCase())
-        params.set('context', document.getElementById('contextToggle').checked);
         params.set('motw', document.getElementById('motwToggle').checked);
         params.set('tlis', document.getElementById('tlisToggle').checked);
         params.set('itstl', document.getElementById('itstlToggle').checked);
@@ -185,12 +183,11 @@ class DTA extends Transcripts {
         console.log(this.seasons, this.eps);
         console.log(titles);
         console.log(chapArray.length);
-        var showContext = document.getElementById('contextToggle').checked;
         var found = false;
         document.getElementById("epResults").innerHTML = "<div class=\"permalink\"><a href=" + this.getPermalink() + ">Link to search</a><br /><br /></div>";
         for (var season=1; season<=this.seasons; season++) {
             const s = season;
-            found = this.querySeason(chapArray, titles, s, phrase, showContext) || found;
+            found = this.querySeason(chapArray, titles, s, phrase, true) || found;
         }
         if (!found) {
             document.getElementById("contextResults").innerHTML += "<center>No results found.<br /></center>";
