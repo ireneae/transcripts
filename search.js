@@ -128,7 +128,7 @@ export class Transcripts {
         console.log(title);
         if (data.toLowerCase().includes(phrase)) {
             found = true;
-            const epNum = "" + season + "." + this.pad2(ep)
+            const epNum = title.split(" ")[0]
             document.getElementById("epResults").innerHTML += "<a href=\"#ep" + epNum + "\" class=\"eplink\">" + epNum + "</a> ";
             if (showContext) {
                 this.parseContext(phrase, title, epNum, data);
