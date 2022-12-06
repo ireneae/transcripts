@@ -39,3 +39,17 @@
 3.11 - Utopia
 3.12 - The Sound of Drums
 3.13 - Last of the Time Lords
+4.00 - Voyage of the Damned
+4.01 - Partners in Crime
+4.02 - The Fires of Pompeii
+4.03 - Planet of the Ood
+4.04 - The Sontaran Stratagem
+4.05 - The Poison Sky
+4.06 - The Doctor's Daughter
+4.07 - The Unicorn and the Wasp
+4.08 - Silence in the Library
+4.09 - Forest of the Dead
+4.10 - Midnight
+4.11 - Turn Left
+4.12 - The Stolen Earth
+4.13 - Journey's End

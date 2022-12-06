@@ -33,21 +33,10 @@ class DoctorWho extends Transcripts {
         return window.location.pathname + "?" + params.toString();
     }
 
-    getEpIndex(season, ep) {
-        var epNum = 0;
-        var s = 0;
-        var title = "";
-        while (s < season-1) {
-            epNum += this.eps[s];
-            s += 1;
-        }
-        return epNum + ep - 1;
-    }
-
     querySeason(text, titles, season, phrase, showContext) {
         var found = false;
         var start = 1;
-        if (season == 2) {
+        if (season == 2 || season == 3 || season == 4) {
             var idx = this.getEpIndex(season, 1);
             found = this.searchEp(text[idx], titles[idx], phrase, season, 1, showContext) || found;
             start = 2;
@@ -86,8 +75,8 @@ class DoctorWho extends Transcripts {
                 },
                 async: false
             });
-        this.seasons=3;
-        this.eps=[13, 14, 13];
+        this.seasons=4;
+        this.eps=[13, 14, 14, 14];
         var found = false;
         console.log(epArray.length);
         document.getElementById("epResults").innerHTML = "<div class=\"permalink\"><a href=" + this.getPermalink() + ">Link to search</a><br /><br /></div>";
