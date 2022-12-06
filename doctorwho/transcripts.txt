@@ -439,6 +439,7 @@ By the way, did I mention it also travels in time?
  Thanks.
  Thanks for what?
 @@@@@@
+@@@@@@
 Run.
  I'm the Doctor.
  I'm Rose.
@@ -925,6 +926,7 @@ Let's have a look at the past. 1860. How does 1860 sound?
 Mr Dickens, this is your call.
 Use the sight. Find the old lady or you're dismissed.
 What phantasmagoria is this?
+@@@@@@
 @@@@@@
 Sneed And Company offer their sincerest condolences, sir, in this most trying hour.
 Grandmama had a good innings, Mr Sneed. She was so full of life.
@@ -1546,7 +1548,7 @@ He's more alive now than he's ever been. Let's give him one last surprise.
  Merry Christmas, sir.
  Merry Christmas to you.
 God bless us, every one!
-
+ @@@@@@
 @@@@@@
  There's a strange man in my bedroom.
  No.
@@ -2002,7 +2004,7 @@ Agh!
 Thank you all for wearing your ID cards.
 They'll help to identify the bodies.
 Agh!
-Agh!  
+Agh!  @@@@@@
 @@@@@@
 Those aliens have been here for a while.
 Harriet Jones, MP for Flydale North.
@@ -2541,6 +2543,7 @@ I could travel around suns and planets and all the way out to the edge of the un
 So stop worrying.
 See you in ten seconds' time, yeah?
 Ten seconds.
+@@@@@@
 @@@@@@
  What is it?
  Some kind of signal, drawing us off course.
@@ -3105,7 +3108,7 @@ I hadn't noticed.
 She said cement! She wasn't joking. We're going to get sealed in!
 Doctor? What are you doing standing inside a box?
 Rose?
- 
+ @@@@@@
 @@@@@@
 <i>Solar flare activity has increased across</i> <i>space lanes 5,5,6. All commercial flights are...</i> So, it's 200,000. It's a spaceship... No, a space station, and, er...
  Try that gate over there.
@@ -3685,6 +3688,7 @@ What a surprise! Let me look at you!
 Six months!
 It's like I saw you yesterday. Time goes by like that.
 @@@@@@
+@@@@@@
 <i>Peter Alan Tyler, my dad.</i> <i>The most wonderful man In the world.</i> <i>Born 15th September, 1954.</i> Come here, Rose. Come here.
 Who's that? It's your daddy.
 You weren't old enough to remember when he died.
@@ -4218,7 +4222,7 @@ She held his hand.
 Then she was gone.
 Never found out who she was.
 <i>Peter Alan Tyler, my dad.</i> <i>The most wonderful man In the world.</i> <i>Died 7th November, 1987.</i> 
-
+@@@@@@
 @@@@@@
  What's the emergency?
  It's mauve.
@@ -4799,7 +4803,8 @@ Mummy. Mummy...
  Mummy.
  Mummy.
 Mummy...
-
+I don't know what's happening but I had nothing to do with it.
+@@@@@@
 @@@@@@
 And why are we chasing it?
 It's mauve and dangerous, and about 30 seconds from the centre of London.
@@ -5523,7 +5528,7 @@ I can dance!
 Actually, Doctor, I thought Jack might like this dance.
 I'm sure he would, Rose, I'm absolutely certain.
 But who with?
- 
+ @@@@@@
 @@@@@@
 There's still no word from inside Downing Street.
 Though we are getting even more new arrivals.
@@ -6200,7 +6205,7 @@ Now, you don't often get to say that.
 We'll stop by and pop her in the hatchery.
 Margaret the Slitheen can live her life again. A second chance.
 That'd be nice.
- 
+ @@@@@@
 @@@@@@
 <i>The Fourth Great</i> <i>and Bountiful Human Emplre.</i> Every single fact in the Empire beams out of this place.
 Now, that's what I call power.
@@ -6740,8 +6745,9 @@ And then I'm gonna save the Earth. And then, just to finish off, I'm gonna wipe 
 <i>But you have no weapons!</i> <i>No defences! No plan!</i> Yeah. And doesn't that scare you to death?
 Rose?
 Yes, Doctor?
-<i>I'm coming to get you.</i> <i>The Doctor is initiating hostile action.</i> <i>The Stratagem must advance.</i> <i>Begin the invasion of Earth.</i> <i>The Doctor will be exterminated.</i> <i>Exterminate. Exterminate...</i> 
-
+<i>I'm coming to get you.</i> <i>The Doctor is initiating hostile action.</i> <i>The Stratagem must advance.</i> <i>Begin the invasion of Earth.</i> <i>The Doctor will be extermlnated.</i> <i>Exterminate. Extermlnate...</i> <i>Launch missiles. Extermlnate.</i> We've got incoming. This is it, ladies and gentlemen, we are at war.
+<i>There's an army</i> <i>about to invade this statlon.</i> Defences have gone off line.
+@@@@@@
 @@@@@@
 <i>You are the Weakest Link.</i> This isn't just a game.
 There's something else going on.
@@ -7187,8 +7193,7 @@ And do you know what?
 So was I.
 Hello, okay.
 New teeth, that's weird. So, where was I?
-Oh, that's right, Barcelona!  
-
+Oh, that's right, Barcelona!  @@@@@@
 @@@@@@
 RADIO: # Does he ride a red-nosed reindeer? # Turn that down!
 Turn it off! Steve-o, turn it off.
@@ -7852,7 +7857,7 @@ That way. That way?
 D'you think?
 Yeah, that way.
 Where are we going? Further than we've ever gone.
- 
+ @@@@@@
 @@@@@@
 (HIGH PITCHED BUZZING) Have you got everything? I've got everything. Don't worry.
 Be careful.
@@ -8023,7 +8028,7 @@ And there's millions of humans out there, millions of them.
 Mutant stock.
 They evolved, Cassandra, they just evolved. Like they should.
 You stayed still, you got yourself all pickled and preserved, and what good did it do you?
-] remember that night. Drinks for the Ambassador of Thrace.
+I remember that night. Drinks for the Ambassador of Thrace.
 That was the last time anyone told me I was beautiful.
 After that, it all became such hard work.
 You've got a knack for survival, I'll give you that.
@@ -8531,7 +8536,7 @@ I've got you, sweetheart. It's all right. There you are.
 There you are. I've got you.
 It'll be alright. There, there.
 You poor little thing.
- 
+ @@@@@@
 @@@@@@
 Come now, Father, you should know better.
 You're not welcome here, and especially not today.
@@ -8636,7 +8641,7 @@ My late husband spoke of it often, the Torchwood Estate.
 Now, shall we go inside? And please excuse the naked girl.
 Sorry!
 She's a feral child.
-] bought her for sixpence in old London town.
+I bought her for sixpence in old London town.
 It was her or the Elephant Man, so...
 Thinks he's funny, but I'm so not amused. What do you think, ma'am?
 It hardly matters. Shall we proceed?
@@ -9091,7 +9096,7 @@ I saw, last night, that Great Britain has enemies beyond imagination, and we mus
 I propose an institute to investigate these strange happenings and to fight them.
 I would call it Torchwood. The Torchwood Institute.
 And if this Doctor should return, then he should beware, because Torchwood will be waiting.
- 
+ @@@@@@
 @@@@@@
 (HUMMING) What do you want?
 The nurse sent me, sir.
@@ -9296,7 +9301,7 @@ They haven't done that for years. Where are you from, the Dark Ages?
 Anyway! Moving on...
 Everything started when Mr Finch arrived. We should go and check his office.
 I don't mean to be rude or anything, but who exactly are you?
-Sarah Jane Smith. ] used to travel with the Doctor.
+Sarah Jane Smith. I used to travel with the Doctor.
 Oh! Well, he's never mentioned you.
 Oh, I must've done. Sarah Jane. I mention her all the time.
 Hold on, sorry... never.
@@ -9405,7 +9410,7 @@ Does it matter?
 Yeah, it does, if I'm just the latest in a long line.
 As opposed to what?
 I thought you and me were...
-] obviously got it wrong.
+I obviously got it wrong.
 I've been to the year 5 billion, right, but this...
 Now, this is really seeing the future. You just leave us behind.
 Is that what you're gonna do to me?
@@ -9419,7 +9424,7 @@ Imagine watching that happen to someone that you...
 What, Doctor?
 You can spend the rest of your life with me...
 but I can't spend the rest of mine with you.
-] have to live on. Alone.
+I have to live on. Alone.
 That's the curse of the Time Lords, Time Lord.
 (SCREECHING) Was that a Krillitane?
 It didn't even touch you, it just flew off. What did it do that for?
@@ -9448,7 +9453,7 @@ My brothers remain bat form.
 What you see is a simple morphic illusion.
 Scratch the surface and the true Krillitane lies beneath.
 And what of the Time Lords?
-1] always thought of you as such a pompous race.
+I always thought of you as such a pompous race.
 Ancient, dusty senators.
 So frightened of change, and chaos.
 And, of course, they're all but extinct.
@@ -9477,7 +9482,7 @@ Well, things were a lot simpler back then.
 Rose, can I give you a bit of advice?
 I've got a feeling you're about to.
 I know how intense a relationship with the Doctor can be and I don't want you to feel I'm intruding...
-] don't feel threatened by you if that's what you mean.
+I don't feel threatened by you if that's what you mean.
 Right. Good. Because I'm not interested in picking up where we left off.
 No?
 With the big sad eyes and the robot dog, what else were you doing last night?
@@ -9698,7 +9703,7 @@ He replaced you with a brand-new model.
 Affirmative, Yeah. He does that.
 Come on, you. Home. We've got work to do.
 Affirmative, 
-
+@@@@@@
 @@@@@@
 (SCREAMING) We are under attack. There are creatures.
 I don't even think they're human. We can't stop them.
@@ -9714,7 +9719,7 @@ Are you there? Can you hear me?
 I need you now, you promised. The clock on the mantel is broken.
 It is time.
 Doctor! Doctor!
-(DOCTOR WHO THEME) (WHOOSHING) It's a spaceship. Brilliant! ] got a spaceship on my first go.
+(DOCTOR WHO THEME) (WHOOSHING) It's a spaceship. Brilliant! I got a spaceship on my first go.
 ROSE: Looks kind of abandoned. Anyone on board?
 Nah, nothing here. Well, nothing dangerous.
 Well, not that dangerous.
@@ -10330,8 +10335,9 @@ REINETTE: “My dear Doctor, “the path has never seemed more slow and yet I fe
 "Reason tells me that you and I are unlikely to meet again, “but I think I shall not listen to reason.
 "I have seen the world inside your head and know that all things are possible.
 “Hurry, though, my love, “My days grow shorter now and I am so very weak.
-"Godspeed, my lonely angel.”
-
+"Godspeed, my lonely angel.” (WHOOSHING) DOCTOR: So this is London.
+An alternative to our world where everything's the same but a little bit different.
+@@@@@@
 @@@@@@
 (WHIRRING) The prototype has passed every test, sir. It's working.
 I hardly think “working” is the correct word.
@@ -10676,7 +10682,7 @@ I thought they'd gone and disappeared you.
 That carpet on the stairs, I told you to get it fixed. You're gonna...
 fall and break your neck.
 Well, you get it fixed for me!
-] should've done it way back. I guess I'm just kind of useless.
+I should've done it way back. I guess I'm just kind of useless.
 Now, I never said that.
 Tam, though.
 And I'm sorry, Gran. I'm so sorry.
@@ -10857,7 +10863,7 @@ Who's Gemini?
 The vans are back. They are moving out of Battersea.
 Looks like Gemini was right, Lumic’s finally making a move.
 And we are right behind him. Pack up, we're leaving.
-(HORN BLARING) ] remember her 21st.
+(HORN BLARING) I remember her 21st.
 Pint of cider in the George.
 Sorry, sir, champagne?
 Might as well, I'm paying for it.
@@ -10877,7 +10883,7 @@ It's not too late. She's only 40.
 39.
 All right, 39.
 It's still too late.
-] moved out last month.
+I moved out last month.
 We're gonna keep it quiet, you know. It's bad for business.
 Why am telling you all this? We haven't met before, have we?
 I don't know, you just seem sort of...
@@ -10997,8 +11003,7 @@ You will be deleted.
 But we're surrendering! Listen to me! We surrender!
 You are inferior.
 Man will be reborn as Cyberman but you will perish under maximum deletion.
-Delete. Delete. Delete. Delete,  
-
+Delete. Delete. Delete. Delete,  @@@@@@
 @@@@@@
 What's happened?
 The time vortex. It's gone.
@@ -11164,7 +11169,7 @@ Come on!
 No!
 CYBERMAN: This one is un-programmed.
 Mr Crane, I thought you were one of the faithful.
-Oh, that] am, sir. My Ear Pod must have malfunctioned, for which I apologise.
+Oh, that I am, sir. My Ear Pod must have malfunctioned, for which I apologise.
 If I might?
 I'd like to request an upgrade, sir.
 I've seen the future and it's copyright Cybus Industries.
@@ -11566,7 +11571,7 @@ Thank you for everything.
 Dad...
 Don't. Just don't.
 MICKEY: Here it is.
-] found it. Not a crease.
+I found it. Not a crease.
 My suit. Good man.
 Now then, Jake, we've got to run, but one more thing.
 Mrs Moore, her real name was Angela Price.
@@ -11629,7 +11634,8 @@ Then let's go and liberate Paris.
 What, you and me? In a van?
 There's nothing wrong with a van.
 I once saved the universe with a big yellow truck.
-
+There you go, sir. All wired up for the great occasion.
+@@@@@@
 @@@@@@
 WOMAN: (ON TV) Orchestrations were arranged by Sir Rhodri Fenning and Dame Evelyn Blish is a member of the Kings Lynn players.
 So tune in again next week for more from the What's My Line? team.
@@ -11647,7 +11653,7 @@ And the Bells at number 67.
 Well, perhaps we'll get one for the Coronation.
 If you're lucky. We'll see.
 Don't wait up.
-] heard they rot your brains. Rot them into soup and your brain comes pouring out of your ears.
+I heard they rot your brains. Rot them into soup and your brain comes pouring out of your ears.
 That's what television does.
 Mr Magpie?
 Oh 1, Mr Magpie?
@@ -12191,7 +12197,7 @@ It's closed down, I'm afraid, and no epilogue.
 Doctor! What happened?
 Sorted. Electrical creature. TV technology.
 Clever alien life form.
-That's me, by the way. ] turned the receiver back into a transmitter and I trapped The Wire in here.
+That's me, by the way. I turned the receiver back into a transmitter and I trapped The Wire in here.
 I just invented the home video 30 years early.
 Betamax.
 Oh, look!
@@ -12223,7 +12229,8 @@ He's an idiot.
 Course he is. Like I said, he's your dad.
 But you're clever, clever enough to save the world so don't stop there.
 Go on.
-
+We've gone beyond the reach of the Tardis' knowledge. Not a good move.
+@@@@@@
 @@@@@@
 (WHOOSHING) I wonder what's wrong with her. She's sort of queasy.
 Indigestion. Like she didn't want to land.
@@ -12257,7 +12264,7 @@ We've gone beyond the reach of the Tardis' knowledge. Not a good move.
 And if someone's looking for...
 Open door 19.
 Right, hello. Sorry.
-] was just saying, nice place.
+I was just saying, nice place.
 We must feed.
 You gotta what?
 We must feed.
@@ -12280,7 +12287,7 @@ Open door 18. “Um...
 What the hell?
 How did...
 Captain, you're not gonna believe this. We've got people.
-Out of nowhere. ] mean, real people. I mean...
+Out of nowhere. I mean, real people. I mean...
 Two living people just standing here right in front of me.
 (ON RADIO) Don't be stupid, that’s impossible, I suggest telling them that.
 But you're a sort of space base.
@@ -12715,7 +12722,7 @@ Habitation 3. Come on.
 I don't often say this, but I think we could all do with a drink.
 Come on.
 What happened?
-(STUTTERING) I don't know. ] was working and then I can't remember.
+(STUTTERING) I don't know. I was working and then I can't remember.
 All that noise. The room was falling apart. There was no air.
 Come on, up you get. Come and have some Protein One.
 You've gone native.
@@ -12890,12 +12897,13 @@ JEFFERSON: Get that door open!
 The gravity field, it's going!
 We're losing orbit!
 We're gonna fall into the black hole!
-] have been imprisoned for eternity.
+I have been imprisoned for eternity.
 But no more.
 COMPUTER: Door sealed. Door sealed.
 BEAST: The Pit is open and I am free!
-(BEAST LAUGHING) 
-
+(BEAST LAUGHING) DANNY: It's the Ood. They've gone mad.
+Doctor, can you hear me? Doctor, Ida, are you there?
+@@@@@@
 @@@@@@
 DOCTOR: Oh, it's a sanctuary base! Deep space exploration.
 "Welcome to hell.” DOCTOR: What are you lot doing here?
@@ -12915,7 +12923,7 @@ THE OOD: And you will worship him.
 (GROWLING) You can tell Toby we've found his civilisation.
 (DISTORTED VOICE) These are the words of the Beast.
 And he has woken.
-] have been imprisoned for eternity.
+I have been imprisoned for eternity.
 But no more.
 BEAST: The Pit is open and I am free!
 (DOCTOR WHO THEME) Open fire!
@@ -13448,10 +13456,10 @@ We're not out of it yet.
 We're still the first people in history to fly away from a black hole.
 Toby, read me the stats.
 Gravity funnel holding, sir. Oh, it's holding.
-] accept that you exist.
+I accept that you exist.
 I don't have to accept what you are. But your physical existence, I give you that.
 (BEAST GROWLING SOFTLY) I don't understand.
-] was expected down here.
+I was expected down here.
 I was given a safe landing and air.
 You need me for something. What for?
 Have I got to...
@@ -13495,7 +13503,7 @@ But then you're clever enough to use this whole system against me.
 If I destroy this planet, I destroy the gravity field.
 The rocket.
 The rocket loses protection, falls into the black hole.
-] have to sacrifice Rose.
+I have to sacrifice Rose.
 (LAUGHING) It doesn't make sense, We escaped, but there's a thousand ways it could have killed us.
 It could have ripped out the air or, I don’t know, burnt us or anything.
 But it let us go. Why?
@@ -13559,7 +13567,7 @@ I only had time for one trip.
 They went down with the planet.
 (ELECTRONIC BEEPING) Entering clear space. End of the line.
 Mission closed.
-] don't know. I can't remember.
+I don't know. I can't remember.
 Well, it looked like a box.
 What do you mean, a box?
 Well, down in the hold, a big blue box.
@@ -13588,7 +13596,8 @@ Officer Tobias Zed, deceased, with honours.
 43K 2.1.
 Also, Ood 1 Alpha 1, deceased, with honours.
 Ood 1 Alpha 2, deceased, with honours...
-
+Lights!
+@@@@@@
 @@@@@@
 ROSE: Doctor! Doctor, look out! Doctor, he's going! Quick!
 DOCTOR: Where's he gone? Do you see him?
@@ -13816,7 +13825,7 @@ Someone's got to know who she is somewhere.
 But London's a big place. I should know, my own daughter's out there.
 Bridget, don't make this personal.
 I don't like to be touched literally or metaphorically, thank you very much.
-] haven't got the time. Bleeding hearts, outside.
+I haven't got the time. Bleeding hearts, outside.
 Find me that girl! Go! Now! Move!
 ELTON: And so it began, the impossible task.
 To scour the mean streets, To search a major capital city for an unknown girl.
@@ -13855,7 +13864,7 @@ Go on, go and sit down.
 Put the telly on if you want. I can't bear it silent.
 JACKIE: It's just me these days, rattling about.
 There's my daughter, but she's gone travelling.
-] keep her bedroom all nice and ready though, just in case she comes back.
+I keep her bedroom all nice and ready though, just in case she comes back.
 And her name is?
 Rose, That's a nice name, Rose.
 So, where is she travelling?
@@ -13866,7 +13875,7 @@ Still, at that age, who can be bothered phoning home?
 Yeah.
 Who's she with? Is it mates, is it? Or...
 Just mates, yeah.
-Well, if] had you making a nice cup of tea like this, ] wouldn't stray far from home.
+Well, if I had you making a nice cup of tea like this, I wouldn't stray far from home.
 You're a charmer. Say it again.
 Magnificent! Oh, I could kiss you! Except I can't, of course. The eczeema.
 I've even got a picture of her on my phone.
@@ -14208,7 +14217,8 @@ But what I wanted to say is, you know, when you're a kid, they tell you that it�
 (SIGHS) But the truth is, the world is so much stranger than that.
 It's so much darker and so much madder.
 And so much better.
-
+DOCTOR: 30th Olympiad.
+@@@@@@
 @@@@@@
 POSTMAN: Morning, love. WOMAN: Morning.
 WOMAN: Hiya! MAN: All right.
@@ -14478,7 +14488,7 @@ A's and B's.
 Can I use your loo?
 She's in the choir.
 She sings in an old folks’ home. Any mum would be proud, you know?
-] want you to know these things before you see her, Doctor, because right now, she's not herself.
+I want you to know these things before you see her, Doctor, because right now, she's not herself.
 (DOOR RATTLING) All right there?
 I'm the Doctor.
 I'm Chloe Webber.
@@ -14669,7 +14679,7 @@ Just need to widen the field a bit.
 I know what it's like to travel a long way on your own, Give me the steino-magnetic... Um...
 Thing in your left hand.
 Sounds like you're on its side.
-] sympathise, that's all.
+I sympathise, that's all.
 The Isolus has caused a lot of pain for these people.
 It's a child. That's why it went to Chloe. Two lonely mixed-up kids.
 Feels to me like a temper tantrum ‘cause it can't get its own way.
@@ -14876,7 +14886,7 @@ I thought I'd lost you.
 Nah. Not on a night like this.
 This is a night for lost things being found. Come on.
 What now?
-] wanna go to the Games, it's what we came for.
+I wanna go to the Games, it's what we came for.
 Go on. Give us a clue.
 Which events do we do well in?
 Well, I will tell you this, Papua New Guinea surprised everyone in the shot put.
@@ -14889,7 +14899,8 @@ Never say, "Never ever." Nah, we'll always be okay, you and me.
 Something in the air. Something coming.
 What?
 A storm's approaching.
-
+ROSE: This is a story of war on Earth, DRAMATIC VOICE: The valiant child who will die in battle so very soon.
+@@@@@@
 @@@@@@
 ROSE: Planet Earth, This is where I was born, and this is where I died.
 The first 19 years of my life, nothing happened.
@@ -15094,7 +15105,7 @@ You even look like him.
 How do you mean?
 I suppose I do, yeah.
 You've changed so much. ~For the better.
-] suppose.
+I suppose.
 Mum, I used to work in a shop.
 I've worked in shops. What's wrong with that?
 No, I didn't mean that.
@@ -15494,7 +15505,7 @@ All of the ghosts are Cybermen.
 Millions of them.
 Right across the world.
 (PEOPLE SCREAMING) They're not ghosts. They're metal men!
-] urge you, stay in your homes!
+I urge you, stay in your homes!
 (ALL SCREAMING) They're invading the whole planet.
 It's not an invasion. It's too late for that.
 It's a victory.
@@ -15518,7 +15529,8 @@ Oh my God!
 Location, Earth. Life forms detected.
 Exterminate! Exterminate! Exterminate!
 Exterminate!
-
+This planet is starting to boil!
+@@@@@@
 @@@@@@
 My name is Rose Tyler.
 And this is the story of Torchwood.
@@ -15603,7 +15615,7 @@ His mind spoke of a second species invading Earth, Infected by the superstition 
 You didn't need to kill him!
 Neither did we need him alive!
 Dalek Thay, investigate outside.
-Tobey.
+I obey.
 Units, open visual link.
 Visual contact established.
 Establish visual contact, lower communications barrier.
@@ -15612,7 +15624,7 @@ DALEK: State your identity!
 CYBERMAN: You will identify first.
 DALEK: Identify!
 It's like Stephen Hawking meets the speaking clock.
-..€nd illogical, you will modify.
+.. and illogical, you will modify.
 Daleks do not take orders.
 You have identified as Daleks.
 Outline resembles the inferior species known as Cybermen, Rose said about the Daleks, she was terrified of them.
@@ -16052,7 +16064,7 @@ But you've got to.
 Well, that's tough.
 Mum.
 COMPUTER: Reboot in one minute.
-Thad a life with you for 19 years.
+I had a life with you for 19 years.
 But then I met the Doctor.
 And all the things I've seen him do for me, for you, for all of us, for the whole stupid planet and every planet out there. He does it alone, Mum.
 But not anymore.
@@ -16117,7 +16129,7 @@ DOCTOR: Rose, ROSE: Last night I had a dream.
 DOCTOR: Rose, ROSE: I heard a voice. And it was calling my name.
 DOCTOR: Rose, Rose.
 Rose.
-Thad a dream.
+I had a dream.
 I told Mum and Dad and Mickey.
 Anyone else would think I was mad, but not those three.
 They believed it.
@@ -16139,11 +16151,11 @@ I'm in orbit around a supernova.
 I'm burning up a sun just to say goodbye.
 You look like a ghost.
 Hold on.
-Can 1...?
+Can I...?
 I'm still just an image. No touch.
 ~Can't you come through properly?
 The whole thing would fracture.
-Two universes would collapse. $0?
+Two universes would collapse. So?
 Where are we? Where did the gap come out?
 We're in Norway.
 Norway. Right.
@@ -16181,7 +16193,8 @@ On your own?
 Quite right, too.
 And I suppose...
 if it's my last chance to say it, Rose Tyler...
-
+What?
+@@@@@@
 @@@@@@
 Sorry.
 (WHIRRING) (SCREAMING) WOMAN: Where did she go?
@@ -16347,7 +16360,7 @@ Oh, my God, I don't know where I am, it's a street.
 And there's WHSmith. But it's definitely Earth.
 (BEEPING) Excuse me, I'm begging you.
 I'm getting married, | really am, and I'm late and I just need to borrow a tenner and I'll pay you back, I promise, and it's Christmas, DONNA: Taxi!
-] want to go to Chiswick.
+I want to go to Chiswick.
 Thanks for nothing, Spaceman, I'll see you in court.
 Donna!
 I promise you, mate, I'll give you the rest when we get there.
@@ -16764,7 +16777,7 @@ No, but that's what you do. The human race.
 Make sense out of chaos.
 Marking it out with weddings and Christmas and calendars.
 This whole process is beautiful. But only if it is being observed.
-So] came out of all this.
+So I came out of all this.
 Isn't that brilliant?
 I think that's the Isle of Wight.
 Eventually, gravity takes hold.
@@ -16945,7 +16958,7 @@ I'll see you in a minute.
 (WHOOSHING) Doctor!
 Doctor!
 Blimey, you can shout.
-Am I ever gonna see you again?
+Am | ever gonna see you again?
 If I'm lucky.
 Just promise me one thing.
 Find someone, I don't need anyone.
@@ -16960,7 +16973,8 @@ Doctor?
 Oh, what is it now?
 That friend of yours, what was her name?
 Her name was Rose.
-
+(WHOOSHING) I'm the Doctor.
+@@@@@@
 @@@@@@
 (DOCTOR WHO THEME) (MOBILE RINGING) You're up early! What's happening?
 It's a nightmare ‘cause Dad won't listen and I'm telling you, Mum's going mental.
@@ -17001,7 +17015,7 @@ And spend all our money?
 Jones?
 We could take bloods and check for Méniere's disease, Or we could simply ask the patient.
 What did you have for dinner last night?
-] had salad.
+I had salad.
 And the night before? Salad, again.
 And salad every night for the past week, contrary to my instructions.
 A salt deficiency, that's all.
@@ -17038,7 +17052,7 @@ Well, it's only to be expected.
 There's a thunderstorm moving in and lightning is a form of static electricity, as was first proven by... Anyone?
 Benjamin Franklin.
 Correct.
-My mate, Ben. That was a day and a half. ] got rope burns off that kite.
+My mate, Ben. That was a day and a half. I got rope burns off that kite.
 And then I got soaked.
 Quite.
 And then I got electrocuted!
@@ -17133,7 +17147,7 @@ She never came home.
 I'm sorry.
 Yeah.
 I was there, in the battle. It was...
-] promise you, Mr Smith, we will find a way out.
+I promise you, Mr Smith, we will find a way out.
 If we can travel to the moon, then we can travel back.
 There's got to be a way.
 It's not Smith. That's not my real name.
@@ -17588,7 +17602,8 @@ Off we go!
 Blimey! It's a bit bumpy!
 Welcome aboard, Miss Jones.
 It's my pleasure, Mr Smith.
-
+The Globe Theatre, containing the man himself.
+@@@@@@
 @@@@@@
 # Her face was like a winter moon # That lights the traveller's way # Her smile was like a summer bloom # That bursts then fades away # My love is night, my love is day # My love, she is my world # Such sweet music shows your blood to be afire.
 Why wait we on stale custom for consummation?
@@ -17609,7 +17624,7 @@ Oh, let's take the fun and the mystery out of everything.
 Martha, you don't want to know. It just does. Hold on tight!
 Blimey! Do you have to pass a test to fly this thing?
 Yes, and I failed. Now, make the most of it.
-] promised you one trip and one trip only.
+I promised you one trip and one trip only.
 Outside this door, brave new world.
 Where are we?
 Take a look.
@@ -17666,7 +17681,7 @@ Then I could get sectioned.
 (AUDIENCE CHEERING) That's amazing, just amazing. It's worth putting up with the smell.
 And those are men dressed as women, yeah?
 London never changes.
-Where's Shakespeare? ] want to see Shakespeare!
+Where's Shakespeare? I want to see Shakespeare!
 Author! Author!
 Do people shout that? Do they shout "Author"?
 Author! Author!
@@ -18114,7 +18129,7 @@ I know how to do this.
 I name thee Carrionite!
 (GASPS) What did I do wrong? Was it the finger?
 Power of a name works only once. Observe.
-] gaze upon this bag of bones, and now I name thee, Martha Jones.
+I gaze upon this bag of bones, and now I name thee, Martha Jones.
 What have you done?
 Only sleeping, alas.
 It's curious, her name has less impact.
@@ -18294,7 +18309,8 @@ How should I know? I haven't met her yet! That's time travel for you.
 Still, I can't wait to find out.
 That's something to look forward to.
 Ooh!
-
+And we're slap-bang in the middle of New New York.
+@@@@@@
 @@@@@@
 Salutations. This is Sally Calypso with the traffic news at 10:15.
 We've got reports of a multiple stack-pile at Junction 509, with a spate of carjackings reported on New 5th Avenue.
@@ -18445,7 +18461,7 @@ That's all I want. I won't cause any trouble, just take me back.
 I'm sorry. That's not a real gun.
 Well, you would say that.
 Where do you get a gun from these days?
-] wouldn't even know how to fire.
+I wouldn't even know how to fire.
 No, nor me.
 Okay.
 What's your name?
@@ -19006,7 +19022,8 @@ The second sun would rise in the south and the mountains would shine.
 The leaves on the trees were silver.
 When they caught the light every morning, it looked like a forest on fire.
 When the autumn came, a breeze would blow through the branches. It sounded like a song...
-
+MARTHA: It's the Statue of Liberty. I've always wanted to go to New York.
+@@@@@@
 @@@@@@
 (BELL RINGING) Two minutes to curtain up, come on!
 MAN: Two minutes to curtain up.
@@ -19261,7 +19278,7 @@ The human race always continues.
 We've had wars. I've been a soldier myself.
 And I swore then I'd survive, no matter what.
 You have rare ambition.
-] want to run this city, whatever it takes. By any means necessary.
+I want to run this city, whatever it takes. By any means necessary.
 You think like a Dalek.
 I'll take that as a compliment.
 This human is our best option. Bring him to me.
@@ -19637,7 +19654,8 @@ The children of Skaro must walk again.
 What is it?
 I am a human Dalek.
 Tam your future.
-
+Move, move, move, move, move!
+@@@@@@
 @@@@@@
 Martha, have you met my friend?
 MARTHA: Always wanted to go to New York.
@@ -20262,7 +20280,7 @@ Dalek Caan.
 Your entire species has been wiped out and now the Cult of Skaro has been eradicated, leaving only you.
 Right now, you're facing the only man in the universe who might show you some compassion.
 ‘Cause I've just seen one genocide.
-] won't cause another.
+I won't cause another.
 Caan, let me help you.
 What do you say?
 Emergency temporal shift!
@@ -20318,7 +20336,8 @@ Mmm.
 Do you think you'll ever see it again?
 Oh, yes.
 One day.
-
+Tonight, I'm going to perform a miracle.
+@@@@@@
 @@@@@@
 There we go. Perfect landing.
 Which isn't easy in such a tight spot.
@@ -20922,8 +20941,9 @@ Martha, it’s your mother. Please phone me back.
 I'm begging you. I know who this Doctor really is.
 I know he's dangerous. You're going to get yourself killed.
 Please trust me. This information comes from Harold Saxon himself.
-You're not safe, 
-
+You're not safe, Distress signal. Locking on.
+Now that is hot. If you can't stand the heat...
+@@@@@@
 @@@@@@
 Well, there we go, universal roaming.
 Never have to worry about a signal again.
@@ -21284,7 +21304,7 @@ It's your fault. Now burn with me.
 Freezing him. Ice vents.
 You'll kill him!
 Come on, let's see you.
-] want to know what you really are.
+I want to know what you really are.
 COMPUTER: Airlock sealed.
 McDonnell, Ashton's heading in your direction.
 He's been infected, just like Korwin.
@@ -21381,7 +21401,7 @@ COMPUTER: Impact in 11:15.
 Heat shields Heat shields failing at 10%, (GRUNTING) Come on!
 Go on, my son.
 SCANNELL ON RADIO: Doctor, how are you doing?
-I can't... ] can't reach.
+I can't... I can't reach.
 I don't know how much longer I can last.
 SCANNELL: Come on, don't give up now.
 We're being pulled back!
@@ -21550,7 +21570,8 @@ Have you voted?
 Of course.
 Just don't expect me to tell you who for.
 Thanks for all you're doing, Mrs Jones. Mr Saxon will be very grateful.
-
+Martha, this watch is...
+@@@@@@
 @@@@@@
 DOCTOR: Get down!
 Did they see you?
@@ -21572,7 +21593,7 @@ What does? What am I supposed to do?
 Take this watch because my life depends on it.
 This watch, Martha, this watch is...
 (KNOCK ON DOOR) Come in.
-Pardon me, Mr Smith, you're not dressed yet. ] can come back later.
+Pardon me, Mr Smith, you're not dressed yet. I can come back later.
 No, it’s all right, it’s all right, put it down.
 I was...
 Sorry, sorry.
@@ -21660,7 +21681,7 @@ Yes, it is, yes.
 Have you seen this, John? The annual dance at the village hall tomorrow?
 It's nothing formal, but rather fun by all accounts.
 Do you think you'll go?
-] hadn't thought about it.
+I hadn't thought about it.
 It's been ages since I've been to a dance, only no one's asked me.
 Well, I should imagine that you'd be...
 I mean... I mean, I never thought you'd be one for...
@@ -21719,13 +21740,13 @@ It's like he's left the kettle on, like he knows he has something to get back to
 It's just him.
 You arrived with him, didn't you?
 He found you employment here at the school, isn't that right?
-] used to work for the family. He just sort of inherited me.
+I used to work for the family. He just sort of inherited me.
 Well, I'd be careful. If you don't mind my saying, you sometimes seem a little familiar with him.
 Best remember your position.
 Yes, ma'am.
 Ah, Latimer, here you are.
 Latin translation.
-Blasted Catullus. ] want it done by morning.
+Blasted Catullus. I want it done by morning.
 Yes, sir.
 And no mistakes.
 I want it written in my best handwriting.
@@ -21853,7 +21874,7 @@ They can smell me, they haven't seen me, and their life supplies are running out
 Wait for them to die.
 But they can track us down.
 That's why I've got to do it.
-] have to stop being a Time Lord.
+I have to stop being a Time Lord.
 I'm gonna become human.
 Never thought I'd use this.
 All the times I've wondered.
@@ -22156,7 +22177,7 @@ I don't mean to be rude, but the awful thing is it doesn’t even matter what yo
 But you're nice and you're lucky.
 And I just wanted to say sorry for what I'm about to do.
 Oh, now, really, Martha, this is getting out of hand.
-] must insist that you leave.
+I must insist that you leave.
 Do you know what this is?
 Name it.
 Go on, name it.
@@ -22204,8 +22225,9 @@ Then let's see you answer this.
 Which one of them do you want us to kill?
 Maid or matron?
 Your friend or your lover?
-Your choice, 
-
+Your choice, We are the Family of Blood.
+(CHURCH BELLS RINGING) Save us.
+@@@@@@
 @@@@@@
 DOCTOR: Get down!
 Ah! They're following us.
@@ -22363,7 +22385,7 @@ In foreign fields, war of the whole wide world with all your boys falling down i
 Do you think they will thank the man who taught them it was glorious?
 Don't you forget, boy, I have been a soldier.
 Twas in South Africa. I used my dead mates for sandbags.
-] fought with the butt of my rifle when the bullets ran out, and I would go back there tomorrow for King and country.
+I fought with the butt of my rifle when the bullets ran out, and I would go back there tomorrow for King and country.
 Etcetera, etcetera.
 Run along, Headmaster. Run back to school.
 And send us Mr Smith!
@@ -22834,7 +22856,8 @@ They fell with their faces to the foe.
 They shall not grow old as we that are left grow old.
 Age shall not weary them nor the years condemn.
 At the going down of the sun and in the morning, we will remember them.
-
+Don't blink.
+@@@@@@
 @@@@@@
 (GRUNTING) (DOCTOR WHO THEME) Kathy?
 DOCTOR: Listen, your life could depend on this.
@@ -23146,12 +23169,12 @@ What does that mean?
 Is that it? Look at the list?
 He said you'd have it by now.
 A list of 17 DVDs.
-1] didn't stay a policeman back then.
+I didn't stay a policeman back then.
 Got into publishing, then video publishing.
 Then DVDs, of course.
 You put the Easter egg on.
 Have you noticed what all 17 DVDs have in common yet?
-] suppose it's hard for you in a way.
+I suppose it's hard for you in a way.
 How could the Doctor have even known Thad a list?
 I only just got this.
 I asked him how, but he said he couldn't tell me.
@@ -23415,7 +23438,8 @@ Don't turn your back.
 Don't look away.
 And don't blink.
 Good luck.
-
+We're going to the end of the universe.
+@@@@@@
 @@@@@@
 (WHOOSHING) DOCTOR: Cardiff!
 Cardiff?
@@ -23528,7 +23552,7 @@ Told you.
 Thad to live through the entire 20th century waiting for a version of you that would coincide with me.
 But that makes you more than 100 years old.
 And looking good, don’t you think?
-So, I went to the time rift, based myself there, ‘cause I knew you'd come back to refuel, until finally, ] get a signal on this detecting you and here we are.
+So, I went to the time rift, based myself there, ‘cause I knew you'd come back to refuel, until finally, I get a signal on this detecting you and here we are.
 But the thing is, how come you left him behind, Doctor?
 I was busy.
 Is that what happens, though, seriously?
@@ -23871,7 +23895,7 @@ Yes.
 Well...
 (GASPING) I think I've got just the man.
 Was someone kissing me?
-Lieutenant, get on-board the rocket. I] promise you're going to fly.
+Lieutenant, get on-board the rocket. I promise you're going to fly.
 The chamber's flooded.
 Trust me, we found a way of tripping the system. Run!
 What are you taking your clothes off for?
@@ -24088,7 +24112,8 @@ No, you don't.
 End of the universe. Have fun. Bye-bye.
 Doctor, stop him!
 (WHOOSHING) Hurry up, they're getting in!
-
+Let the work of Government begin.
+@@@@@@
 @@@@@@
 (ALL GROANING) Oh, my head!
 Time travel without a capsule, that's a killer.
@@ -24382,7 +24407,7 @@ What are you doing! Get off!
 Linda, tell them!
 What's happening? Tish?
 It's your fault! It's all your fault!
-] was helping you! Get off me!
+I was helping you! Get off me!
 Martha! Get out of here, get out!
 Target identified!
 Martha, reverse!
@@ -24788,7 +24813,8 @@ They're killing us! The Toclafane... They're killing us!
 (PEOPLE SCREAMING) I'm coming back.
 And so it came to pass that the human race fell and the Earth was no more, And I looked down upon my new dominion as master of all.
 And I thought it good.
-
+(BREATHING HEAVILY) MASTER: Ever since I was a child, I looked into the Vortex, that's when it chose me.
+@@@@@@
 @@@@@@
 The Master is Prime Minister of Great Britain.
 And these are my friends.
@@ -24921,7 +24947,7 @@ Take them away.
 MAN: Move! Come on. MASTER: Okay, got you.
 (GRUNTING) There you go, gramps.
 Oh! Do you know...
-] remember the days when the Doctor, oh, that famous Doctor, was waging a Time War, battling Sea Devils and Axons.
+I remember the days when the Doctor, oh, that famous Doctor, was waging a Time War, battling Sea Devils and Axons.
 He sealed the rift at the Medusa Cascade single-handed!
 And look at him now.
 Stealing screwdrivers. How did he ever come to this?
@@ -25393,7 +25419,8 @@ Keep that. ‘Cause I'm not having you disappear!
 If that rings, when that rings, you'd better come running, got it?
 Got it.
 I'll see you again, mister.
-
+(DISTANT LAUGHTER) (HORN BLARING) What?
+@@@@@@
 @@@@@@
 What?
 WHAT?
@@ -26190,7 +26217,8 @@ No, me neither.
 Oh, and Doctor!
 I won't forget her.
 Merry Christmas, Mr Copper.
-
+Come with me.
+@@@@@@
 @@@@@@
 (DOCTOR WHO THEME) (PHONE RINGING) RECEPTIONIST: Good morning, Adipose Industries.
 (DEVICE WHIRRING) Donna Noble, Health and Safety.
@@ -26457,7 +26485,7 @@ Officially, the capsule attracts all the fat cells and flushes them away.
 Well, it certainly attracts them, that part's true.
 But it binds the fat together and galvanises it to form a body.
 What do you mean, a body?
-] am surprised you never asked about my name.
+I am surprised you never asked about my name.
 I chose it well.
 Foster.
 As in "foster mother".
@@ -26510,7 +26538,7 @@ I'm gonna fall!
 What the hell is going on?
 This is all your fault.
 I should have stayed at home.
-] won't be a minute.
+I won't be a minute.
 Yes, he's slippery, that one.
 Time we found out who he is.
 Is anyone going to tell me what's going on?
@@ -26792,7 +26820,8 @@ And that's him. That's him!
 Yay! That's him!
 Go on, girl! Go on, get out there!
 Hey!
-
+Ancient Rome!
+@@@@@@
 @@@@@@
 Ancient Rome.
 Well, not to them, obviously.
@@ -27614,770 +27643,8 @@ There's a good boy.
 Come here, let me fix it. You've got that folded all wrong...
 Thank you, household gods.
 Thank you for everything.
-
+Now then, Doctor Noble,  Mrs Noble, come with me.
 @@@@@@
-VENDOR: Fish! Get your fresh fish!
-Ancient Rome!
-Well, not to them, obviously.
-To all intents and purposes, right now, this is brand-new Rome.
-Oh, my God! It's...
-It's so Roman!
-This is fantastic.
-Ha, ha!
-I'm here!
-In Rome. Donna Noble, in Rome!
-This is just weird! I mean, everyone here's dead.
-Well, don't go telling them that.
-Hold on a minute. That sign over there is in English.
-Are you having me on? Are we in Epcot?
-No, no, no, that's the Tardis translation circuits.
-Just makes it look like English. Speech as well.
-We're talking Latin right now. Seriously?
-I just said "seriously" in Latin!
-Well, yeah.
-What if I said something in actual Latin?
-Like veni, vidi, vici, My dad said that when he came back from football.
-If I said, “Veni, vidi, vici,” to that lot, what would it sound like?
-I'm not sure. You have to think of difficult questions, don’t you?
-I'm going to try it!
-Hello, sweetheart. What can I get you, my love?
-Um...
-Veni, vidi, vici.
-Huh? Sorry?
-(IN LOUD, SLOW VOICE) Me no speak Celtic. No can do, missy.
-Yeah.
-How's he mean, Celtic?
-Welsh. You sound Welsh.
-Well, there we are. Learnt something.
-Don't our clothes look a bit odd?
-Nah! Ancient Rome, anything goes.
-It's like Soho, but bigger.
-Have you been here before, then?
-Mmm, ages ago.
-Before you ask, that fire had nothing to do with me.
-Well, a little bit. But I never got the chance to look around properly.
-Colosseum, Pantheon, Circus Maximus...
-You'd expect them to be looming by now.
-Where is everything?
-Try this way.
-I'm not an expert, but there are seven hills of Rome, aren't there?
-How come they've only got one?
-(RUMBLING) MAN: Here we go again!
-Wait a minute, One mountain, with smoke, which makes this...
-Pompeii.
-We're in Pompeii.
-And it's volcano day!
-(DOCTOR WHO THEME) I beg audience with the High Priestess of the Sibylline.
-The High Priestess cannot be seen.
-What would you tell her, sister?
-It has come, as foretold in the prophecy.
-The box. The blue box.
-You're kidding.
-You're not telling me the Tardis has gone.
-Okay.
-Where is it, then?
-You told me not to tell you.
-Oi! Don't get clever in Latin.
-Um...
-Excuse me, excuse me!
-There was a box, a big, blue box. A big, blue, wooden box just over there.
-Where has it gone? Sold it, didn't 1?
-But it wasn't yours to sell!
-It was on my patch, wasn't it? I got 15 ses 30 for it. Lovely jubbly!
-Who'd you sell it to?
-Old Caecilius.
-Look, if you want to argue, why don't you take it up with him?
-He's on Foss Street. Big fellow, can't miss him.
-Thanks!
-What did he buy a big, blue, wooden box for?
-Modern art!
-Out of the way! That's it!
-Oh, Rhombus, I'm a little bit peckish.
-Get me some ants in honey, there's a good lad.
-Ooh! Maybe a dormouse?
-What do you think?
-You call it modern art, I call it a blooming great waste of space.
-But we're going up in the world, my love.
-Lucius Dextrus himself is coming to the house this afternoon.
-What with that and our Evelina about to be elevated...
-Oh, don't go on about it, Dad.
-If we'd moved to Rome, like I said, she could have been a vestal virgin.
-Someone mention vestal virgins?
-Quintus, don't be so rude! You apologise to the household gods!
-Get off.
-Apologise right now.
-The gods are always watching.
-Positions!
-There. Now you've made the heavens angry.
-Just say sorry.
-I tell you, Caecilius, that boy will come to no good.
-Sorry, household gods.
-So where were you last night? Down the thermapolium, I bet.
-Cavorting with Etruscans and Christians and all sorts, How's your head, sunshine?
-How's your head!
-All right, Dad, give us a break.
-You want to smarten yourself up, Quintus, before Lucius Dextrus gets here.
-Look at your sister.
-She's giving us status.
-Oh, yeah, ‘cause it's all about Evelina.
-She has the gift.
-Be proud of your sister for once.
-Have you been consuming?
-Not this morning.
-Well, come on, sweetheart, practise!
-It's hot today, the hypocaust is on full blast.
-The mountain god must be happy.
-Breathe deeply. Remember what the sisterhood said.
-It hurts, Oh, my love, is it too hot?
-Sometimes, in the smoke, I see the most terrible things.
-Like what?
-A face.
-A face of stone.
-It'll make sense. One day.
-Sister Spurrina promised.
-The veil will be parted, and you'll be a seer.
-(GROWLING) Who are you?
-Ha! I've got it! Foss Street, this way!
-No!
-I found this big sort of amphitheatre thing.
-We can start there, we could gather everyone together.
-They maybe have a great, big bell or something we could ring.
-Have they invented bells yet?
-What do you want a bell for?
-To warn everyone, start the evacuation!
-What time does Vesuvius erupt? When's it due?
-It's 79 AD, 23rd of August, which makes volcano day tomorrow.
-Plenty of time. We'll get everyone out easy!
-Yeah, except we're not going to.
-But that's what you do. You're the Doctor, you save people.
-Not this time. Pompeii is a fixed point in history.
-What happens, happens. There is no stopping it.
-~Says who?
-Says me.
-What, and you're in charge?
-Well, this Time Lord, yeah.
-Donna, human, no. I don't need your permission, I'll tell them myself.
-If you stand in the marketplace announcing the end of the world, they'll think you're a mad old soothsayer.
-Now, come on! Tardis. We are getting out of here!
-Well, I might just have something to say about that, spaceman!
-Oh, I bet you will!
-The tall one, he calls us mad.
-Then he is a stranger to Pompeii. Soon he will learn.
-We have found it, Sister Spurrina, in the thirteenth book of the Sibylline Oracles.
-The blue box.
-A temple made of wood, and yet the sibyl foretold that the box would appear at the time of storms and fire and betrayal.
-HIGH PRIESTESS: Sisters!
-Revered Mother, you should sleep.
-The Sibylline Oracles are wrong!
-But we have venerated her words for generations.
-This is a new age.
-Heed my words.
-I predict a future of prosperity and might, an endless empire of Pompeii, reaching out from this city to topple Rome itself and encompass the whole wide world.
-If the disciples of the blue box defy this prophecy, their blood will run across the temple floor.
-(ALL GASP) The gods approve!
-Positions!
-Whoa!
-There you go.
-Thank you, kind sir.
-I'm afraid business is closed for the day.
-I'm expecting a visitor.
-Well, that's me, I'm a visitor.
-Hello!
-Who are you?
-lam Spartacus.
-And so am I.
-Mr and Mrs Spartacus?
-Oh, no, no, no. We're not married.
-Not together.
-Oh, brother and sister? Yes, of course!
-You look very much alike.
-(BOTH) Really?
-I'm sorry, but I'm not open for trading.
-And that trade would be...?
-Marble.
-Lobus Caecilius, mining, polishing and design thereof.
-If you want marble, I'm your man.
-That's good.
-That's good, ‘cause I'm the marble inspector.
-By the gods of commerce, an inspection!
-I'm sorry, sir, I do apologise for my son.
-QUINTUS: Oi!
-This is my good wife Metella.
-I must confess, we're not prepared for...
-Nothing to worry about, I'm sure you've got nothing to hide.
-Although, frankly, that object looks rather like wood to me.
-I told you to get rid of it!
-I only bought it today!
-Ah, well. Caveat emptor.
-Oh, you're Celtic. There's lovely!
-I'm sure it’s fine, but I might have to take it off your hands for a proper inspection.
-While we're here, wouldn't you recommend a holiday, Spartacus?
-Don't know what you mean, Spartacus.
-This lovely family, mother and father and son, don't you think they should get out of town?
-Why should we do that?
-The volcano for starters, What?
-The volcano.
-The what-ano?
-The big volcano right on your doorstep.
-Oh, Spartacus, for shame!
-We haven't even greeted the household gods yet.
-They don't know what it is. Vesuvius is just a mountain to them.
-The top hasn't blown off yet.
-The Romans haven't even got a word for "volcano". Not until tomorrow.
-Oh, great. They can learn a new word. As they die.
-Donna, stop it.
-I don't know what sort of kids you been flying around with in outer space, but you're not telling me to shut up. That boy, how old is he, 16?
-And tomorrow he burns to death.
-And that's my fault?
-Right now, yes.
-Announcing Lucius Petrus Dextrus, chief augur of the city government.
-Lucius! My pleasure, as always.
-Quintus, stand up.
-A rare and great honour, sir, for you to come to my house.
-The birds are flying north and the wind is in the west.
-Right, absolutely. That's good, is it?
-Only the grain of wheat knows where it will grow.
-There now, Metella, have you ever heard such wisdom?
-Never. It's an honour.
-Pardon me, sir, I have guests. This is Spartacus and, uh, Spartacus.
-A name is but a cloud upon a summer wind.
-But the wind is felt most keenly in the dark.
-Dark!
-But what is the dark other than an omen of the sun?
-I concede that every sun must set. “Ha!
-And yet the son of the father must also rise.
-Damn. Very clever, sir. Evidently a man of learning.
-Oh, yes, but don't mind me. Don't want to disturb the status quo.
-He's Celtic.
-We'll be off in a minute.
-I'm not going.
-It's ready, sir.
-You've got to.
-Well, I'm not.
-The moment of revelation.
-And here it is, exactly as you've specified.
-It pleases you, sir?
-As the rain pleases the soil.
-Oh, now, that's different. Who designed that, then?
-My lord Lucius was very specific.
-Where'd you get the pattern?
-On the rain and mist and wind.
-But that looks like a circuit.
-Made of stone.
-Do you mean you just dreamt that thing up?
-That is my job as city augur.
-What's that, then, like the mayor?
-Oh, you must excuse my friend, she's from Barcelona.
-This is an age of superstition, of official superstition.
-The augur is paid by the city to tell the future, "The wind will blow from the west." That's the equivalent of the ten o'clock news.
-They're laughing at us.
-Those two, they use words like tricksters. They're mocking us.
-No, no, no, I meant no offence.
-I'm sorry, my daughter's been consuming the vapours.
-By the gods, Mother, what have you been doing to her?
-Not now, Quintus.
-But she's sick. Just look at her!
-I gather I have a rival in this household.
-Another with the gift.
-Oh, she has been promised to the Sibylline Sisterhood.
-They say she has remarkable visions.
-The prophesies of women are limited and dull.
-Only the menfolk have the capacity for true perception.
-I'll tell you where the wind's blowing right now, mate.
-(RUMBLING) The mountain god marks your words. I'd be careful if I were you.
-Consuming the vapours, you say?
-They give me strength.
-It doesn't look like it to me.
-Is that your opinion as a doctor?
-I beg your pardon?
-Doctor, that's your name.
-How did you know that?
-And you.
-You call yourself “noble”.
-Now then, Evelina, don't be rude.
-DOCTOR: No, no, not at all.
-You both come from so far away.
-A female soothsayer is inclined to invent all sorts of vagaries.
-Oh, not this time, Lucius. I reckon you've been out-soothsayed.
-Is that so?
-Man from Gallifrey.
-What?
-(FIERCE RUMBLING) The strangest of images.
-Your home is lost in fire, is it not?
-Doctor, what are they doing?
-And you, daughter of London.
-How does he know that?
-This is the gift of Pompeii.
-Every single oracle tells the truth.
-That's impossible.
-Doctor, she is returning.
-Who is? Who's "she"?
-And you, daughter of London, there is something on your back.
-What's that mean?
-Even the word "Doctor" is false.
-Your real name is hidden.
-It burns in the stars, in the cascade of Medusa herself.
-You are a lord, sir.
-A lord of time.
-Evelina!
-She didn't mean to be rude.
-She's ever such a good girl.
-But when the gods speak through her...
-What's wrong with her arm?
-An irritation of the skin.
-She never complains, bless her.
-We bathe it in olive oil every night.
-What is it?
-Evelina said you'd come from far away.
-Please, have you ever seen anything like it?
-It's stone.
-(DOCTOR GRUNTING) Different sort of hypocaust.
-Oh, yes, we're very advanced in Pompeii.
-In Rome, they're still using the old wood-burning furnaces, but we've got hot springs heated from Vesuvius itself.
-Who thought of that?
-The soothsayers.
-After the great earthquake 17 years ago.
-An awful lot of damage. But we rebuilt.
-Didn't you think of moving away? Oh, no, then again, San Francisco.
-That's a restaurant in Naples, isn’t it?
-What's that noise?
-Don't know, happens all the time.
-They say the gods of the underworld are stirring.
-But after the earthquake, let me guess, is that when the soothsayers started making sense?
-Oh, yes, very much so.
-I mean, they had always been, shall we say, imprecise.
-But then, the soothsayers, the augurs, the haruspices, all of them, they saw the truth again and again. It's quite amazing.
-They can predict crops and rainfall with absolute precision.
-Have they said anything about tomorrow?
-No.
-Why, should they? Why do you ask?
-No, no, no reason, just asking.
-But the soothsayers, they all consume the vapours?
-That's how they see.
-Ipso facto...
-Look, you...
-They're all consuming this.
-Dust?
-Tiny particles of rock.
-They're breathing in Vesuvius.
-Quintus, me old son, this Lucius Petrus Dextrus.
-Where does he live?
-It's nothing to do with me.
-Let me try again.
-This Lucius Petrus Dextrus...
-Where does he live?
-Don't tell my dad.
-Only if you don't tell mine.
-Pass me that torch.
-The liar! He told my father it was the only one.
-Well, plenty of marble merchants in this town.
-Tell them all the same thing, get all the components from different places $0 no one can see what you're building.
-Which is what?
-The future, Doctor!
-We are building the future as dictated by the gods.
-You're not supposed to laugh. Thanks for that.
-What do you think?
-The goddess Venus.
-(CHUCKLING) That's sacrilege!
-Nice to see you laugh, though.
-What do you do in old Pompeii, then, girls your age?
-You got mates? Do you go hanging about round the shops?
-TK Maximus?
-I am promised to the sisterhood for the rest of my life.
-Do you get any choice in that?
-It's not my decision.
-The sisters chose for me. I have the gift of sight.
-Then what can you see happening tomorrow?
-Is tomorrow special?
-You tell me.
-What do you see?
-The sun will rise, the sun will set. Nothing special at all.
-Look, don't tell the Doctor I said anything ‘cause he'll kill me, but I've got a prophecy, too.
-DONNA: Evelina, I'm sorry, but you've got to hear me out.
-Sisters!
-DONNA: Evelina, can you hear me?
-Listen!
-EVELINA: There is only one prophecy!
-Everything I'm about to say to you is true, I swear.
-Just listen to me.
-(ECHOING) Tomorrow that mountain is going to explode.
-Evelina, please listen.
-The air is going to fill with ash and rocks, tons and tons of it and this whole town is going to get buried.
-EVELINA: That's not true.
-I'm sorry, I'm really sorry.
-But everyone's going to die.
-A new prophecy!
-Impossible. There is only one.
-Even if you don't believe me, just tell your family to get out of town.
-Just for one day, just for tomorrow, but you've got to get out.
-You've got to leave Pompeii.
-This is false prophecy!
-The Noble woman, she spoke of a new prophecy, the fall of Pompeii.
-HIGH PRIESTESS: Pompeii will last forever.
-Then what must we do?
-The false prophet must die.
-Sacrifice her!
-Put this one there, this one there... Er, keep that one upside down.
-What have you got?
-Enlighten me.
-What, the soothsayer doesn’t know?
-The seed may float on the breeze in any direction.
-Yeah, I knew you were going to say that. But it's an energy converter.
-An energy converter of what?
-I don't know.
-Isn't that brilliant? I love not knowing, keeps me on my toes.
-It must be awful being a prophet.
-Waking up every morning, “Is it raining? Yes, it is. I said so.” Takes all the fun out of life. But who designed this, Lucius?
-Hmm? Who gave you these instructions?
-I think you've babbled enough!
-Lucius, really, tell me. Honestly, I'm on your side, I can help.
-You insult the gods!
-There can be only one sentence. At arms!
-(SPEAKING LATIN) Celtic prayers won't help you now.
-But it was him, sir, he made me do it. Mr Dextrus, please don't.
-Come on now, Quintus, dignity in death.
-I respect your victory, Lucius. Shake on it?
-Come on.
-Dying man's wish.
-But he's...
-Show me.
-The work of the gods.
-He's stone!
-Armless enough, though!
-DOCTOR: Quintus!
-The carvings!
-Run!
-My carvings!
-The work is unbroken.
-Oh, lord of the mountain, I beseech you.
-This man would prevent the rise of Pompeii!
-(GROWLING) Lord, I beg of you, show yourself.
-Show yourself!
-(GROWLING) No sign of them.
-I think we're all right.
-But his arm, Doctor... Is that what's happening to Evelina?
-(POUNDING) What was that?
-The mountain?
-No, it's closer.
-(POUNDING INTENSIFIES) They're footsteps.
-It can't be, Footsteps on the ground.
-What is it?
-What is it?
-What is it? What's that noise?
-That doesn't sound like Vesuvius.
-Caecilius? All of you, get out!
-Doctor, what is it?
-Think we're being followed.
-(GROWLING) Just get out!
-The gods are with us.
-Water, we need water! Quintus, all of you, get water! Donna!
-Blessed are we to see the gods!
-(CAECILIUS YELLING) Talk to me, that's all I want.
-Talk to me, just tell me who you are. Don't hurt these people!
-Talk to me.
-I'm the Doctor. Just tell me who you are.
-What was it?
-A carapace of stone.
-Held together by internal magma.
-Not too difficult to stop, but I reckon that's just the foot soldier.
-Doctor, or whatever your name is, you bring bad luck in this house.
-I thought your son was brilliant. Aren't you gonna thank him?
-I don't know...
-If there are aliens at work in Pompeii, it's a good thing we stayed.
-Donna!
-Donna?
-Donna!
-You have got to be kidding me.
-The false prophet will surrender both her blood and her breath. I'll surrender you in a minute.
-Don't you dare.
-You will be silent.
-Listen, sister, you might have eyes on the back of your hands, but you'll have eyes in the back of your head by the time I finish with you.
-Let me go!
-This prattling voice will cease forever!
-DOCTOR: That'll be the day.
-No man is allowed to enter the Temple of Sybil.
-Well, that’s all right. Just us girls. Do you know, I met the Sybil once?
-Hell of a woman. Blimey! She can dance the tarantella, Nice teeth. Truth be told, I think she had a bit of a thing for me.
-I said it'd never last. She said, "I know." Well, she would.
-You all right there?
-Never better.
-I like the toga.
-Thank you.
-And the ropes?
-Yeah, not so much.
-What magic is this?
-Let me tell you about the Sybil, the founder of this religion.
-She would be ashamed of you. All her wisdom and insight turned sour.
-Is that how you spread the word, eh? On the blade of a knife?
-Yes, a knife that now welcomes you.
-HIGH PRIESTESS: Show me this man.
-High Priestess, the stranger will defile us.
-Let me see. This one is different. He carries starlight in his wake.
-Oh, very perceptive.
-Where do these words of wisdom come from?
-HIGH PRIESTESS: The gods whisper to me.
-They've done far more than that.
-Might I beg audience? Look upon the High Priestess.
-Oh, my God! What's happened to you?
-The heavens have blessed me.
-If I might...
-Does it hurt?
-It is necessary.
-Who told you that?
-The voices.
-Is that what's gonna happen to Evelina?
-Is this what's gonna happen to all of you?
-The blessings are manifold.
-They're stone.
-Exactly.
-The people of Pompeii are turning to stone before the volcano erupts.
-But why?
-This word, this image in your mind, this volcano, what is that?
-More to the point, why don't you know about it?
-Who are you?
-High Priestess of the Sibylline.
-No, no, no, I'm talking to the creature inside you.
-The thing that's seeding itself into a human body, in the dust in the lungs.
-Taking over the flesh and turning it into what?
-Your knowledge is impossible.
-Oh, but you can read my mind. You know it's not.
-I demand you tell me who you are!
-DEEP VOICE: We are awakening.
-The voice of the gods!
-ALL CHANTING: Words of wisdom. Words of power.
-Words of wisdom. Words of power. Words of wisdom...
-Name yourself. Planet of origin, galactic coordinates, species designation, according to the universal ratification of the Shadow Proclamation.
-We are rising!
-Tell me your name!
-Pyrovile!
-Pyrovile, Pyrovile, Pyrovile...
-What's a Pyrovile?
-That's a Pyrovile. Growing inside her.
-~She's at halfway stage.
-What, and that turns into?
-That thing in the villa, that was an adult Pyrovile.
-And the birth of a Pyrovile will incinerate you, Doctor.
-I warn you. I'm armed. Donna, get that grille open.
-What the...
-Just...
-What are the Pyrovile doing here?
-We fell from the heavens.
-We fell so far and so fast, we were rendered into dust.
-Right. Creatures of stone shatter on impact.
-When was that, 17 years ago?
-We have slept beneath for thousands of years.
-Okay, so 17 years ago woke you up.
-And now you're using human bodies to reconstitute yourself.
-But why the psychic powers?
-We opened their minds and found such gifts.
-Fine, so you force yourself inside a human brain, use their latent psychic talent, I get that, yeah.
-But seeing the future, that is way beyond psychic.
-You can see through time.
-Where does the gift of prophecy come from?
-DONNA: I've got it. DOCTOR: Now, get down.
-What? Down there?
-Yes, down there.
-Why can't this lot predict the volcano? Why is it being hidden?
-Sisters, I see into his mind. The weapon is harmless.
-Yeah, but it's gotta sting.
-You fought her off with a water pistol. I bloody love you!
-This way!
-Where we going now?
-Into the volcano, No way.
-Yes way.
-Have it your way.
-The stranger would threaten our great endeavour.
-The time has come.
-The prophecy must advance!
-The prophecy must advance.
-Thy will be done.
-Summon the Cult of Vulcan.
-Yes, sir.
-We must go to the mountain.
-Vesuvius awaits.
-Sunrise, my love.
-A new day.
-Even the longest night must end.
-But the mountain's worse than ever.
-We killed a messenger of the gods in our own house.
-Sweetheart, can you see? Tell us, what's going to happen?
-Just leave her alone.
-I can see.
-What is it?
-A choice.
-Someone must make a choice.
-The most terrible choice.
-But if it's aliens setting off the volcano, doesn’t that make it all right for you to stop it?
-DOCTOR: It's still part of history.
-DONNA: But I'm history to you.
-You saved me in 2008, you saved us all. Why is that different?
-Some things are fixed, some things are in flux.
-Pompeii is fixed.
-How do you know which is which?
-Because that's how I see the universe, Every waking second I can see what is, what was, what could be, what must not.
-It's the burden of a Time Lord, Donna.
-And I'm the only one Left.
-How many people died?
-Stop it!
-Doctor! How many people died?
-Twenty thousand.
-Is that what you can see, Doctor?
-All 20,000?
-And you think that’s all right, do you?
-(PYROVILE WAILING) They know we're here. Come on!
-0 mighty Vesuvius, accept these offerings in Vulcan's design and show unto us, I beseech you, the gods of the underworld!
-(ROARING) It's the heart of Vesuvius.
-We're right inside the mountain.
-There's tons of ‘em.
-What's that thing?
-Well, you better hurry up and think of something. Rocky IV's on its way.
-DOCTOR: That's how they arrive. Or what's left of it. Escape pod.
-Prison ship. Gene bank.
-But why do they need a volcano?
-Maybe it erupts and they launch themselves back into space or something.
-No, I think it's worse than that.
-How can it be worse?
-(ROARING) Doctor, it's getting closer.
-Heathens!
-Defile us!
-They would desecrate your temple, my lord gods!
-Come on.
-We can't go in!
-Well, we can’t go back.
-Crush them! Burn them!
-(PYROVILE ROARING) There's nowhere to run, Doctor and daughter of London!
-Now then, Lucius, my Lord Pyrovillian.
-Don't get yourselves in a lava.
-Ina lava? No?
-No.
-But if I might beg the wisdom of the gods before we perish.
-Once this new race of creatures is complete, then what?
-My masters will follow the example of Rome itself, an almighty empire, bestriding the whole of civilisation!
-But if you've crashed, and you've got all this technology, why don't you just go home?
-The heaven of Pyrovillia is gone.
-What do you mean, gone? Where's it gone?
-It was taken! Pyrovillia is lost.
-But there is heat enough in this world for a new species to rise!
-Yeah, I should warn you. It's 70 percent water out there.
-Water can boil and everything will burn, Doctor!
-Then the whole planet is at stake. Thank you, that's all I needed to know.
-DOCTOR: Donna!
-You have them, my lords.
-Could we be any more trapped?
-A little bit hot.
-See, the energy converter takes the lava.
-Uses the power to create a fusion matrix which welds Pyrovile to human.
-Now it's complete, they can convert millions.
-Can't you change it with these controls?
-Of course I can. But don’t you see?
-That's why the soothsayers can't see the volcano.
-There is no volcano. Vesuvius is never gonna erupt.
-The Pyrovile are stealing all its power.
-They're gonna use it to take over the world.
-But you can change it back.
-Well, I can invert the system so that the volcano will blow them up, yes, but that's the choice, Donna.
-It's Pompeii or the world.
-Oh, my God.
-If Pompeii is destroyed, then it's not just history. It's me.
-I make it happen.
-But the Pyrovile are made of rocks. Maybe they can't be blown up.
-Vesuvius exploded with the force of 24 nuclear bombs.
-Nothing can survive it.
-Certainly not us.
-Never mind us.
-Push this lever and it's over.
-Twenty thousand people...
-No!
-No!
-(SCREAMING) A new prophecy!
-The future is changing.
-(DONNA SCREAMING) The sky is falling!
-Death. Only death!
-It was an escape pod.
-Out! Out! Everybody out! Quickly!
-(MAN SHOUTING) You lied to us!
-And yet this was meant to be.
-(ALL SCREAMING) (BABY CRYING) No, don't go to the beach! Don't go to the beach! Go to the hills!
-Listen to me! Don't go to the beach! It’s not safe!
-Listen to me!
-(CHILD CRYING) Come here.
-MOTHER: Give him to me!
-Come on.
-You can't save us, Doctor.
-No!
-Doctor, you can't!
-Doctor!
-You can’t just leave them!
-Don't you think I've done enough?
-History is back in place and everyone dies.
-You've got to go back! Doctor, I'm telling you, take this thing back!
-It's not fair.
-No, it's not.
-But your own planet. It burned.
-That's just it. Don't you see, Donna? Can't you understand?
-If I could go back and save them, then I would. But I can't.
-I can never go back. I can't. I just can't. I can't.
-Just someone. Please.
-Not the whole town. Just save someone.
-(WHOOSHING) Come with me.
-It's never forgotten, Caecilius.
-Oh, time will pass, man will move on and stories will fade, but one day, Pompeii will be found again.
-In thousands of years.
-And everyone will remember you.
-What about you, Evelina? Can you see anything?
-The visions have gone.
-The explosion was so powerful, it cracked open a rift in time.
-Just for a second. That's what gave you the gift of prophecy.
-It echoed back into the Pyrovillian alternative.
-But not any more.
-You're free, But tell me, who are you, Doctor?
-With your words and your temple containing such size within.
-Oh, I was never here.
-Don't tell anyone.
-The great god Vulcan must be enraged.
-It's so volcanic.
-It's like some sort of... volcano.
-All of those people.
-Thank you.
-Yeah.
-You were right.
-Sometimes I need someone.
-Welcome aboard.
-Yeah.
-Metella, my love, have you seen that clasp?
-The beetle one. The Egyptians do love a scarab.
-Here we are. I was giving it a polish. Now calm down.
-If I get that contract for the marble granaries of Alexandria, we'll be rich. You'll see.
-Hold on there, Evelina.
-You are not going out wearing that!
-Don't start, Dad. It's what all the girls in Rome are wearing.
-I'll see you later.
-Are you seeing that boy again?
-Oh, look at Quintus. My son, the doctor.
-Mum, I've told you. I'm not a doctor. Not yet.
-I'm just a student of the physical sciences.
-Well, that's a doctor to me.
-Give thanks to the household gods before you go. There's a good boy.
-Come here, let me fix it. You've got that folded all wrong.
-Thank you, household gods.
-Thank you for everything.
-Now then, Dr Noble, Mrs Noble, if you'd like to come with me?
-Oh, no, no. We're not married.
-We're so not married.
-Never.
-Never, ever.
-Here at Ood Operations we like to think of the Ood as our trusted friends.
-I've found your unwanted guests.
-Because at heart, what is an Ood...
-I'm on your side!
-but a reflection of us?
-It's a revolution.
-If your Ood is happy...
-The circle must be broken.
-What is it? What is the circle?
-. then you'll be happy, too.
-MAN: Shoot to kill!
-Doctor, Donna. Friends!
 @@@@@@
 ANNOUNCER: The Ood, they came from a distant world.
 They voyaged across the stars, all with one purpose.
@@ -29042,6 +28309,7 @@ MARTHA: Operation Blue Sky is go, go, go.
 Is that what you did to her? Turned her into a soldier?
 MARTHA: Is that...
 Sontaran!
+Stare into the face of death!  @@@@@@
 @@@@@@
 WOMAN: No! Just back off!
 (GRUNTS) MAN 1: Come on!
@@ -29362,7 +28630,7 @@ BOTH: Yes, sir.
 General Staal returning. The stratagem advances.
 The last days of planet Earth.
 (OSCILLATING DRONE) You're not coming with me.
-] want to talk to this Luke Rattigan, not point a gun at him.
+I want to talk to this Luke Rattigan, not point a gun at him.
 It's 10 miles outside London. How are you going to get there?
 Well, then, get me a jeep.
 According to the records, you travel by Tardis.
@@ -29384,7 +28652,7 @@ I'm going home.
 Really? I've got to.
 Well, if that's what you want.
 I mean, it's a bit soon.
-Thad so many places ] wanted to take you.
+Thad so many places I wanted to take you.
 The Fifteenth Broken Moon of the Medusa Cascade.
 The lightning skies of Cotter Palluni’s world.
 The Diamond Coral Reefs of Kataa Flo Ko.
@@ -29706,87 +28974,7 @@ Yeah, but now I know it's Sontaran, I know what I'm looking for.
 The thing is, Doctor, that Donna is my only grandchild.
 You got to promise me you're going to take care of her.
 She takes care of me.
-Oh, yeah. That's my Donna.
-She was always bossing us around even when she was tiny.
-The Little General we used to call her.
-Yeah. Don't start.
-And some of the boys she used to turn up with, a different one every week.
-Here. Who was that one with the nail varnish?
-Matthew Richards. He lives in Kilburn now... with a man.
-Whoa! It's a temporal pocket.
-I knew there was something else in there.
-It's hidden just a second out of sync with real time.
-But what's it hiding?
-I don't know. Men and their cars.
-Sometimes | think if I was a car...
-Oh, it's you. Doctor, what was it?
-Yeah, that's me.
-What, have you met him as well?
-Dad, it's the man from the wedding when you were laid up with Spanish ‘flu.
-I'm warning you. Last time that man turned up, it was a disaster.
-Get back.
-A converter has been activated.
-Show me where.
-(DRONING) London. That's Chiswick.
-Who can have such knowledge?
-Only the Doctor.
-He survived. Excellent. Then battle will be joined.
-Glorious warfare. Tenth Sontaran Battle Fleet.
-We move to the final phase. Prepare the subjugation of Earth for the glory of Sontar.
-VOICE ON PA: Announcing Battle Status One.
-All soldiers to positions.
-Repeat, we are now at Battle Status One. Rejoice.
-That'll stop it.
-I told you. He's blown up the car.
-Who is he anyway? What sort of Doctor blows up cars?
-Oh, not now, Mum.
-Oh, should I make an appointment?
-That wasn't just exhaust fumes. It's some sort of gas, artificial gas.
-And it's aliens. Is it aliens?
-Is this poisonous?
-Then they've got poisonous gas in every car on Earth.
-Trigger the converters and deadlock every single one.
-It's not safe. I'm going to get it off the street.
-No, don't.
-(CAR ENGINE STARTING) Turn it off.
-Grandad, get out of there.
-I can't. It's locked.
-It's them aliens again.
-(CAR HONKS) What's he doing? What's he doing?
-They've isolated it.
-(CAR ALARMS SOUNDING) Turn them off. Turn them off.
-MACE: Turn off the engines.
-SOLDIER: It's all of them, sir.
-Every single car on the planet.
-Now we begin. Let's get to work.
-There's gas inside the car. He's going to choke. Doctor!
-It won't open.
-(CARS HONKING) It's the whole world.
-400 million weapons. Sontar-ha!
-(CHANTING) Sontar-ha!
-ALL: (CHANTING) Sontar-ha!
-(COUGHING AND CHOKING) Donna!
-ALL: (CHANTING) Sontar-ha!
-DONNA: Doctor!
-The government has declared a state of emergency.
-WOMAN: Launching in 10.
-Come then.
-Nine.
-Do not engage the Sontarans in battle.
-Fight.
-The planet is going nuclear. ~Seven.
-It's time I reveal what our work has been for.
-“Six.
-The bravery of idiots is bravery, nonetheless.
-Five, God save us.
-Four.
-They need this gas for something else.
-Three.
-All troops, Code Red.
-Two.
-At arms.
-One.
-Get them out of there!
+@@@@@@
 @@@@@@
 Doctor, it's Martha.
 And I'm bringing you back to Earth.
@@ -30406,7 +29594,7 @@ Walked all the way. Won't catch me driving.
 The streets are half empty. People still aren't driving.
 There's kids on bikes all over the place. It's wonderful.
 Unpack that, love. I'm going to see if Suzette's all right.
-] won't tell her. Best not.
+I won't tell her. Best not.
 Just keep it as our little secret, eh?
 Yeah.
 And you go with him, that wonderful Doctor.
@@ -30439,11 +29627,12 @@ How?
 Well...
 I'd like to see you try that.
 She's my daughter.
+Hello, Dad.  @@@@@@
 @@@@@@
 (GASPING AND SCREAMING) What the hell is he doing?
 The controls aren't working.
 I don't know where we're going, but my old hand's very excited about it.
-] thought that was just some freaky alien thing.
+I thought that was just some freaky alien thing.
 Are you sure that it's yours? Well...
 It got cut off. He grew a new one.
 You are completely impossible.
@@ -30746,7 +29935,7 @@ Are these the readings for the surface? But it doesn't look too bad.
 Nitrogen and oxygen about 80-20.
 That's fine. Ozone levels are high and some big radiation spikes.
 But as long as I'm not out there too long...
-] have to find my friends.
+I have to find my friends.
 Come on, then.
 Hey.
 I'm not supposed to talk to you. I'm on duty.
@@ -30759,9 +29948,9 @@ I'd like to see you try that.
 (WHISPERING) That's the way out.
 Don't you dare.
 Let me distract this one.
-] have picked up a few womanly wiles over the years.
+I have picked up a few womanly wiles over the years.
 Let's save your wiles for later, in case of emergency.
-(SQUEAKING) ] was gonna distract him, not clobber him.
+(SQUEAKING) I was gonna distract him, not clobber him.
 Well, it worked, didn't it?
 I still have a copy of that new map. Just stay there. Don't hurt anyone.
 (MOUSE SQUEAKING) (EXCLAIMS) (GURGLING) You can stay down here and live your whole life in the shadows or come with me and stand in the open air, feel the wind on your face.
@@ -31091,14 +30280,7 @@ That's me.
 No!
 Murder!
 Chief Inspector Smith from Scotland Yard, known as the Doctor. Miss Noble is the plucky young girl that helps me out.
-I say.
-There's a murder, a mystery and Agatha Christie.
-So? Happens to me all the time.
-Show yourself, demon.
-No!
-There's nowhere to run.
-The thrill is in the chase, never in the capture.
-Oh, my God.
+@@@@@@
 @@@@@@
 (WHOOSHING) Oh, smell that air.
 Grass and lemonade and a little bit of mint.
@@ -31327,7 +30509,7 @@ Secret adversary remains hidden.
 We must look for a motive. Use the little, grey cells.
 Oh, yes. Little, grey cells. Good ol’ Poirot.
 You know, I've been to Belgium, yeah.
-] remember.
+I remember.
 I was deep in the Ardennes, trying to find Charlemagne.
 He'd been kidnapped by an insane computer.
 AGATHA: Doctor! Doctor!
@@ -31369,7 +30551,7 @@ What do you mean a giant wasp?
 I mean, a wasp that's giant.
 It's only a silly, little insect.
 When I say giant, I don't mean big.
-] mean flipping enormous! Look at its sting.
+I mean flipping enormous! Look at its sting.
 Let me see.
 It's gone. Buzzed off.
 But that's fascinating.
@@ -31426,10 +30608,10 @@ They could be talking pictures.
 Talking pictures?
 Pictures that talk. What do you mean?
 Oh, blimey, I've done it again.
-] appreciate you're trying to be kind, but you are right.
+I appreciate you're trying to be kind, but you are right.
 These murders are like my own creations. It's as though someone's mocking me.
 And I've had enough scorn for one lifetime.
-Yeah. The thing is, ] had this bloke once.
+Yeah. The thing is, I had this bloke once.
 I was engaged and I loved him. I really did.
 Turns out, he was lying through his teeth.
 But you know what? I moved on.
@@ -31759,68 +30941,7 @@ You're not meant to be like this. You've got the wrong template your mind.
 DONNA: He's not listening.
 How do you kill a wasp?
 Drown him, just like his father.
-Donna, that thing couldn't help itself.
-Neither could I.
-Death comes as the end and justice is served.
-Murder at the Vicar's Rage.
-Needs a bit of work.
-Just one mystery left, Doctor.
-Who exactly are you?
-(GROANING) Oh, it's the Firestone. It's part of the Vespiform's mind.
-It's dying and it's connected to Agatha.
-(EXHALES) He let her go.
-Right at the end, the Vespiform chose to save someone's life.
-Is she all right, though?
-Oh, of course, the amnesia.
-Wiped her mind of everything that happened, the wasp, the murders...
-And us. She'll forget about us.
-Yeah, but we solved another riddle. The mystery of Agatha Christie.
-And tomorrow morning, her car gets found by the side of the lake.
-A few days later, she turns up in a hotel in Harrogate.
-With no idea of what just happened.
-No one will ever know.
-DONNA: Lady Eddison, the Colonel, and all the staff, what about them?
-Shameful story. They'll never talk of it. Too British.
-While the Unicorn does a bunk back to London town, she can even say she was never there.
-What happens to Agatha?
-Oh, great life!
-Met another man. Married again.
-Toured the world. Wrote and wrote and wrote, She never thought her books were any good, though.
-And she must have spent all those years wondering.
-Thing is... I don't think she ever quite forgot.
-Great mind like that, some of the details kept bleeding through.
-All the stuff her imagination could use, like, Miss Marple.
-I should have made her sign a contract.
-And where is it? Where is it? Hold on.
-Here we go.
-¢!
-That is C for Cybermen, C for Carrionites...
-And... Christie, Agatha!
-Look at that.
-She did remember.
-Somewhere at the back of her mind, it all lingered.
-And that's not all. Look at the copyright page.
-"Facsimile Edition, published in the year..." Five billion?
-People never stop reading them.
-She is the bestselling novelist of all time.
-(SIGHS) But she never knew.
-Well, no one knows how they're going to be remembered, all you can do is hope for the best. Maybe that's what kept her writing.
-Same thing keeps me travelling.
-Onwards?
-Onwards, This is the biggest library in the universe. So where is everyone?
-Run. For God's sake, run.
-Run!
-Professor River Song, Archaeologist.
-The shadows are moving again.
-MAN: How can a shadow be infected?
-It's a Vashta Nerada.
-WOMAN: Run!
-What's CAL?
-So, they came to this library and killed everything in it?
-Donna?
-Yeah.
-Stay out of the shadows.
-(WOMAN SCREAMING)  
+@@@@@@
 @@@@@@
 MAN: Close your eyes and tell me what you see, The library.
 Open your eyes again.
@@ -31928,7 +31049,7 @@ Stay out of the shadows.
 Why, what's in the shadows?
 So, we weren't just in the neighbourhood.
 Yeah, I kind of, sort of, lied a bit.
-] got a message on the psychic paper.
+I got a message on the psychic paper.
 What do you think? Cry for help?
 Cry for help with a kiss?
 We've all done that.
@@ -32527,7 +31648,7 @@ Don't play games with me.
 We need to stop this. We've gotta save CAL.
 What is it? What is CAL?
 Spoilers. Spoilers.
-No, don't tell! You mustn't tell!  
+No, don't tell! You mustn't tell!  @@@@@@
 @@@@@@
 DOCTOR: The library. So big it doesn't need a name.
 Someone's got in. Someone's in my library.
@@ -32603,7 +31724,7 @@ The Doctor!
 I saw the Doctor!
 Yes, you did, Donna, and then you forget.
 Dr Moon. Oh, hello.
-Shall] make you a cup of tea?
+Shall I make you a cup of tea?
 (ELECTRONIC BUZZING) Okay, we got a clear spot. In, in, in!
 Right in the centre, in the middle of the light. Quickly!
 Don't let your shadows cross.
@@ -33150,7 +32271,7 @@ Gorgeous, adores me, and hardly able to speak a word.
 What does that say about me?
 Everything.
 Sorry, did I say “everything”? I meant to say "nothing".
-I was aiming for “nothing”, ] accidentally said “everything”.
+I was aiming for “nothing”, I accidentally said “everything”.
 Stand right in the middle of the teleport, please. Keep your...
 What about you? You all right?
 I'm always all right.
@@ -33220,6 +32341,7 @@ Oh, like you're so special.
 Two people are dead.
 Don't make it a third.
 It's coming for me. It's coming for me. Help!
+Get out of there!  @@@@@@
 @@@@@@
 (PHONE RINGING) I said, no.
 A sapphire waterfall. It's a waterfall made of sapphires!
@@ -33243,7 +32365,7 @@ WOMAN: Just the headphones, please.
 There you go.
 That's the headphones for channels 1 to 36.
 Mobile link for 3D vidgames, complimentary earplugs, complimentary slippers, complimentary juice pack and complimentary peanuts.
-] must warn you that some products may contain nuts.
+I must warn you that some products may contain nuts.
 That'd be the peanuts.
 Enjoy your trip.
 Oh, I can't wait. Allons-y.
@@ -33268,7 +32390,7 @@ And I'm Dee Dee. Dee Dee Blasco.
 Don't bother the man.
 Where's my water bottle?
 .. complimentary slippers, complimentary juice pack and complimentary peanuts.
-] must warn you that some products may contain nuts.
+I must warn you that some products may contain nuts.
 Don't be silly. Come and sit with us. Look, we get slippers.
 Jethro, do what your mother says. I'm sitting here.
 Oh, he's ashamed of us, but he doesn’t mind us paying, does he?
@@ -33698,7 +32820,7 @@ As it happens, yes, I am.
 So that's decided. We stay back and we wait.
 When the rescue ship comes, we can get her to hospital.
 We should throw her out.
-] beg your pardon?
+I beg your pardon?
 ~Can we do that?
 Don't be ridiculous.
 That thing, whatever it is, killed the driver and the mechanic and I don't think she's finished yet.
@@ -33810,7 +32932,7 @@ Do you mean... We throw him out as well.
 If we have to.
 Look, just...
 Hang on, sorry, yes, hold on, just...
-] know you're scared. And so am I. Look at me, I am.
+I know you're scared. And so am I. Look at me, I am.
 But we have all got to calm down and cool off and think.
 Perhaps you could tell us your name.
 What does it matter?
@@ -33912,212 +33034,7 @@ He can't move.
 And look at him.
 He can't move.
 Help me.
-Help me.
-Professor.
-Professor.
-~Get me away from him.
-Get me away from him.
-Please.
-Please.
-Oh, thank you!
-Oh, thank you!
-JETHRO: They've completely separated. BIFF: It's in him.
-Do you see? I said it was him all the time.
-She's free. She's been saved.
-Oh, it was so cold.
-It was so cold.
-I couldn't breathe.
-I couldn't breathe.
-I'm sorry. I'm sorry.
-I must have scared you so much.
-I must have scared you so much.
-No, it's all right. I've got you.
-Oh, there you are, my love. It's gone.
-Everything's all right.
-I wouldn't touch her.
-But it's gone. She's clean. It passed into him.
-That's not what happened.
-Thank you for your opinion, Dee, but clearly Mrs Silvestry has been released.
-No!
-Just leave her alone.
-She's safe, isn't she?
-Jethro, it's let her go, hasn't it?
-Think so, yeah. Looks like it.
-Professor?
-I'd say, from observation, the Doctor can't move, and when she was possessed, she couldn't move, so...
-Well, there we are, then.
-Now the only problem we've got is this Doctor.
-It's inside his head.
-DOCTOR: It's inside his head.
-It killed the driver.
-It killed the driver.
-And the mechanic.
-And the mechanic.
-And now it wants us.
-And now it wants us, I said so.
-He's waited so long.
-He's waited so long.
-In the dark...
-In the dark...
-.. and the cold...
-.. and the cold...
-.. and the diamonds...
-.. and the diamonds...
-.. until you came.
-.. until you came.
-Bodies so hot...
-Bodies so hot...
-.. with blood...
-.. with blood...
-.. and pain.
-.. and pain.
-God, make him stop. Someone make him stop.
-But she's saying it!
-And you can shut up!
-But it's not him, it's her! He's just repeating.
-But that's what the thing does. It repeats.
-Let her talk.
-What do you know? Fat lot of good you've been.
-Just let her explain.
-Well, I think, I mean, from what I've seen, it repeats, then it synchronises, then it goes on to the next stage and that's exactly what the Doctor said would happen.
-What, and you're on his side?
-No!
-JETHRO: The voice is the thing. DEE DEE: And she's the voice.
-She stole it! Look at her.
-It's not possessing him, it's draining him.
-She's got his voice.
-That's not true ‘cause it can't be ‘cause I saw it pass into him.
-I saw it with my own eyes. So did I.
-DEE DEE: You didn't.
-It went from her to him.
-You saw it, didn't you?
-I don't know.
-VAL: Oh, don't be stupid, Jethro! Of course you did!
-I suppose he was right next to her.
-Everyone saw it! Everyone!
-You're just making it up.
-I know what I saw and I saw her stealing his voice.
-She's as bad as him. Someone shut her up.
-I think you should be quiet, Dee Dee.
-I'm only saying...
-And that's an order!
-You're making a fool of yourself, pretending you're an expert in mechanics and hydraulics when I can tell you, you are nothing more than average at best.
-Now shut up!
-That's how he does it.
-That's how he does it.
-He makes you fight.
-He makes you fight.
-Creeps into your head...
-Creeps into your head...
-.. and whispers.
-.. and whispers.
-Listen.
-Listen.
-Just listen.
-Just listen.
-That's him.
-That's him.
-Inside.
-Inside.
-BIFF: Throw him out. VAL: Get him out of my head!
-We should throw him out.
-Don't just talk about it. Just... You're useless!
-Do something!
-I will!
-You watch me. I'm going to throw him out.
-Yes!
-Yes!
-Throw him out!
-Throw him out!
-Get rid of him!
-Get rid of him!
-Now!
-Now!
-Don't!
-It'll be you next.
-I don't think we should do this.
-It was your idea. Professor, help me. I can't...
-What sort of a man are you? Come on!
-Throw him out!
-Come on!
-Just do it! Throw him out!
-Professor, help me!
-Get him out!
-Grab hold of him! Not like that! Are you stupid?
-Cast him out.
-Cast him out.
-Into the sun.
-Into the sun.
-I want him out!
-And the night.
-And the night.
-Help me! Get him out!
-(ALL SHOUTING) Get him out!
-Do it!
-Do it.
-Do it now.
-Do it now.
-Faster.
-Faster.
-Just do it!
-That's the way.
-That's the way.
-You can do it.
-You can do it.
-Molto bene!
-Throw him out!
-Molto bene!
-Get him out!
-Allons-y.
-Allons-y.
-That's his voice!
-The starlight waits!
-It's taken his voice!
-The emptiness.
-Get him out!
-The Midnight sky.
-The Midnight sky.
-It's her.
-Throw him out!
-Get him out!
-She's taken his voice!
-One, two, three, four, five, six...
-It's gone. It's gone.
-It's gone. It's gone. It's gone.
-It's gone. It's gone.
-It's gone. It's gone. It's gone.
-It's gone. It's gone.
-I said it was her.
-WOMAN: Repeat, Crusader 50, rescue vehicle coming alongside in three minutes, Door seals set to automatic.
-Prepare for boarding. Repeat, prepare for boarding.
-The hostess.
-What was her name?
-I don't know.
-DONNA: What do you think it was?
-No idea.
-Do you think it's still out there?
-Well, you'd better tell them, this lot.
-Yeah. They can build a Leisure Palace somewhere else.
-Let this planet keep on turning round an extonic star, in silence.
-Can't imagine you without a voice.
-Molto bene.
-Molto bene.
-No. Don't do that.
-Don't.
-Don't.
-Found a body, sir.
-The Doctor is dead.
-How could anything be worse than this?
-What happened? What did they find?
-Oh, my God. The stars are going out.
-Who are you?
-I was like you.
-Turn around! Show me your face!
-I've been pulled across from a different universe ‘cause every single universe is in danger.
-There's something on your back!
-What am I supposed to do?
-Powering up!
-None of this is meant to happen.
+@@@@@@
 @@@@@@
 You are gonna love this! One, two, three.
 Hmm!
@@ -34143,7 +33060,7 @@ I see the future.
 Tell me the past.
 When did your lives cross?
 It's sort of complicated.
-] ended up in his spaceship on my wedding day.
+I ended up in his spaceship on my wedding day.
 Long story.
 But what led you to that meeting?
 All sorts of things.
@@ -34349,7 +33266,7 @@ Looking behind me.
 (RATTLING) People keep on doing that. Looking at my back.
 What sort of people?
 People in the street. Strangers.
-] just catch them sometimes. Staring at me.
+I just catch them sometimes. Staring at me.
 Like they're looking at something.
 And then I get home and I look and there's nothing there.
 (RATTLING) See, look? Now I'm doing it.
@@ -34634,7 +33551,7 @@ Excuse me. Excuse me, where are you taking them?
 Where are you going? Where are you going?
 Where are you going?
 Where are you going!
-] asked about jobs, with the army.
+I asked about jobs, with the army.
 They said I wasn't qualified.
 You were right.
 You said I should have worked harder at school.
@@ -34642,7 +33559,7 @@ I suppose I've always been a disappointment.
 Yeah.
 You know, we'd get a bit of cash if we sold this thing.
 Don't you dare.
-1] always imagined your old age, I'd have put a bit of money by.
+I always imagined your old age, I'd have put a bit of money by.
 Make you comfy.
 Never did.
 I'm just useless.
@@ -34904,6 +33821,728 @@ It's impossible.
 It can't be.
 I'm sorry, we're dead.
 Doctor, come back!
+(MECHANICAL LAUGHING) It's only just beginning.  @@@@@@
+@@@@@@
+It's fine.
+Everything's fine.
+Nothing's wrong. It's all fine.
+Excuse me, what day is it?
+Saturday.
+Saturday. Good.
+Good. I like Saturdays.
+So I just met Rose Tyler?
+Yeah.
+But she's locked away in a parallel world.
+Exactly. If she can cross from her parallel world to your parallel world then that means the walls of the universe are breaking down, which puts everything in danger. Everything.
+But how?
+Thing is, Doctor, no matter what's happening, and I'm sure it's bad, I get that.
+But Rose is coming back.
+Isn't that good?
+Yeah.
+(EXPLOSION) What the hell was that?
+Don't know. It came from outside.
+But we're in space.
+How did it happen?
+What did you do?
+We haven't moved. We're fixed.
+It can't have. No!
+Tardis is still in the same place, but the Earth has gone.
+The entire planet!
+It's gone.
+MAN: Give me a cigarette. Right now. Confirm all stations still online.
+Can anyone hear me? Have we got contact with UNIT base...
+What was that?
+WOMAN: Emergency systems online.
+Was it some sort of earthquake or...
+WOMAN: Get the system operational...
+Jalandra, are you all right?
+Yeah, I'm okay.
+Is anyone hurt?
+MARTHA: We've lost power. Someone get the lights back on.
+DaCosta, see to it right now.
+Suzanne, are you okay?
+Martha, look at the sky.
+Why, what is it?
+Just look at the sky!
+Whoa, what happened?
+Is it the rift? Gwen, Ianto, you okay?
+No broken bones. Slight loss of dignity. No change there, then.
+The whole of the city must've felt that. The whole of South Wales.
+I'm gonna take a look outside.
+A little bit bigger than South Wales.
+Luke, are you all right?
+It felt like some sort of cross-dimensional spatial transference.
+But it's night. It wasn't night. It was 8:00 in the morning!
+Mr Smith, I need you!
+I wish you'd stop giving that fanfare and just tell me what happened!
+Sarah Jane, I think you should look outside, I'll think you'll find the visual evidence most conclusive.
+It's gone dark. It's them aliens, I'll bet my pension.
+What do you want this time, you green swine?
+Dad...
+Look, you get back inside, Sylvia.
+They always want the women.
+No, Dad, just look. Oh, my God!
+Look at the sky!
+That's impossible.
+That's just impossible.
+It can't be, Right, now we're in trouble.
+(COCKING GUN) And it's only just beginning.
+(DOCTOR WHO THEME) But if the Earth's been moved, they've lost the Sun.
+What about my mum? And Granddad?
+They're dead!
+Are they dead?
+I don't know, Donna. I just don't know. I'm sorry, I don't know.
+That's my family. My whole world.
+There's no readings. Nothing.
+Not a trace.
+Not even a whisper. Oh, that is fearsome technology.
+So what do we do?
+We've got to get help.
+From where?
+Donna, I'm taking you to the Shadow Proclamation.
+Hold tight.
+The United Nations have issued an edict asking the citizens of the world not to panic.
+So far there has been no explanation of the 26 planets which have appeared in the sky.
+But it's an empirical fact.
+The planets didn't come to us, we came to them.
+Just look at the stars.
+We're in a completely different region of space. We've travelled.
+Do you know what? I look up and there's all these moons and things...
+Have you seen them? Do you see them?
+What was I drinking last night? Furniture polish?
+Ianto. Time and a place.
+Yeah, it’s funny, though.
+Gwen, come and see.
+Rhys, I have no idea. Just stay indoors.
+Can you phone my mother? Tell her...
+Oh, I don't know. Just tell her to take her pills and go to sleep.
+I'm gonna come home as soon as I can.
+I promise.
+I love you, you big idiot.
+JACK: Someone's established an artificial atmospheric shell, keeping the air and holding in the heat.
+Ianto: Whoever's done this wants the human race alive.
+That's a plus.
+Twenty-seven planets, including the Earth.
+No, but what's that?
+That's not a planet!
+MR SMITH: The reading seems to be artificial in construction.
+Some sort of space station, sitting at the heart of the web.
+They're fine. Maria and her dad, they're still in Cornwall.
+I told them to stay indoors. Clyde's all right, he's with his mum.
+Sarah Jane, I have detected movement. Observe.
+Spaceships.
+Tracking 200 objects. Earthbound trajectory.
+Geneva is calling a Code Red.
+Everyone to battle positions.
+Dr Jones, if you're not too busy...
+I'm trying to phone the Doctor, sir.
+And?
+There's no signal. This number calls anywhere in the universe.
+It never breaks down. They must be blocking it.
+Whoever they are.
+We're about to find out. They're coming into orbit.
+I'll take you on! Yeah, you, mate!
+(PEOPLE SHOUTING) The end of the world, darling.
+End of the stinking world.
+Have one on me, mate.
+(GLASS BREAKING) (CAR ALARM BLARING) Right. You two, you can put that stuff down or run for your lives.
+Do you like my gun?
+We're now getting confirmed reports of spaceships.
+The Pentagon has issued an emergency report.
+Dad, come and see.
+They're saying spaceships.
+Did you find her?
+No.
+No, there's no reply.
+Where are you, Donna?
+ANNOUNCER: ... and stay indoors.
+Where are you, sweetheart?
+3,000 miles and closing. But who are they?
+(PHONE RINGING) Martha Jones, voice of a nightingale. Tell me you put something in my drink.
+No such luck. Have you heard from the Doctor?
+Not a word. Where are you?
+New York.
+Oh. Nice for some. I've been promoted.
+Medical Director on Project Indigo.
+Did you get that thing working?
+Indigo's top secret. No one's supposed to know about it.
+I met a soldier in a bar. Long story.
+When was that?
+Strictly professional.
+1,500 miles, boys. And accelerating. They're almost here.
+I'm receiving a communication from the Earthbound ships.
+They have a message for the human race.
+Put it through. Let’s hear it.
+Exterminate! Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+No.
+Exterminate!
+Exterminate!
+Oh, no.
+Exterminate!
+What is it? Who are they? Do you know her, Jack?
+Exterminate! Exterminate!
+Exterminate!
+Exterminate!
+No.
+Exterminate!
+There's nothing I can do.
+Exterminate! Exterminate!
+I'm sorry. We're dead.
+Exterminate!
+Exterminate!
+Oh, God, you're so young.
+Exterminate! Exterminate!
+Exterminate! Exterminate!
+Get out of here! Come on!
+This way. Come on!
+(PEOPLE SHOUTING) Dalek fleet in battle formation.
+All systems locked and primed.
+Crucible at 90% efficiency.
+The human harvest will commence.
+Battle stations!
+Geneva declaring ultimate Code Red.
+Ladies and gentlemen, we are at war.
+Supreme Dalek on the bridge.
+SUPREME DALEK: Soon the crucible will be complete.
+We have waited long for this ultimate destiny.
+Now the Daleks are the masters of Earth.
+ALL: Daleks are the masters of Earth!
+Daleks are the masters of Earth!
+So, go on, then. What is the Shadow Proclamation anyway?
+Posh name for police. Outer-space police. Here we go!
+Sco bo tro no flo jo ko fo to do.
+No bo ho sho ko ro to so.
+Bo-ko-do-z0-go-bo-fo-po-jo.
+Mo ho.
+Time Lords are the stuff of legend.
+Belong in the myths and whispers of the higher species.
+You cannot possibly exist.
+Yeah. More to the point, I've got a missing planet.
+Then you're not as wise as the stories would say.
+The picture is far bigger than you imagine.
+The whole universe is in outrage, Doctor.
+Twenty-four worlds have been taken from the sky.
+How many?
+Which ones? Show me!
+Locations range far and wide.
+They all disappeared at the exact same moment, leaving no trace.
+Callufrax Minor. Jahoo. Shallacatop. Woman Wept.
+Clom! Clom's gone! Who'd want Clom?
+All different sizes, Some populated, some not. But all unconnected.
+What about Pyrovillia?
+Who is the female?
+Donna. I'm a human being. Maybe not the stuff of legend, but every bit as important as Time Lords, thank you.
+Way back, when we were in Pompeii, Lucius said Pyrovillia had gone missing.
+Pyrovillia is cold case. Not relevant.
+How do you mean, cold case?
+The planet Pyrovillia cannot be part of this.
+It disappeared over 2,000 years ago.
+Yes, yes, hang on.
+But there's the Adipose Breeding Planet, too.
+Miss Foster said that was lost. But that must have been a long time ago.
+That's it! Donna, brilliant!
+Planets have been taken out of time as well as space.
+Put this into 3D.
+Now, if we add Pyrovillia and Adipose III.
+Something missing. Where else, where else, where else?
+Lost, lost, lost, lost. Oh! The lost moon of Poosh!
+What did you do?
+Nothing.
+The planets rearranged themselves into the optimum pattern. Ooh.
+Look at that.
+Twenty-seven planets in perfect balance.
+Come on, that is gorgeous.
+Oi, don't get all spaceman. What does it mean?
+All those worlds fit together like pieces of an engine.
+It's like a powerhouse.
+What for?
+Who could design such a thing?
+Someone tried to move the Earth once before.
+Long time ago.
+It can't be, DALEK: Maximum extermination!
+MAN: The shields are down! There's too many of them! Abandon ship!
+The Vatiant’s down!
+Air force retreating over North Africa. Daleks landing in Japan.
+GWEN: We've lost contact with the Prime Minister's plane.
+Jack! Manhattan!
+Martha, get out of there.
+I can't, Jack. I've got a job to do.
+They're targeting military bases, and you're next on the list.
+Dr Jones, you will come with me.
+Project Indigo is being activated.
+Quick march.
+But we can't use Project Indigo.
+It hasn't been tested, sir. We don't even know if it works, DALEK: Human forces will be exterminated!
+Annihilate UNIT!
+Exterminate!
+Put it on. Fast as you can!
+Martha, I'm telling you. Don't use Project Indigo. It's not safe!
+You take your orders from UNIT, Dr Jones, not from Torchwood.
+But why me?
+You're our only hope of finding the Doctor. But failing that, if no help is coming, then with the power invested in me by the Unified Intelligence Taskforce I authorise you to take this.
+The Osterhagen Key.
+I can't take that, sir.
+You know what to do!
+For the sake of the human race.
+(EXPLOSION) DALEK: Dalek Attack Squad Five reaching north corridor.
+Dr Jones.
+Exterminate! Exterminate!
+Good luck.
+Exterminate!
+Exterminate!
+Bye, Jack.
+Martha, don't do it!
+Don't!
+What's Project Indigo?
+MAN: UNIT base...
+Experimental teleport salvaged from the Sontarans.
+But they haven't got coordinates or stabilisation!
+So where is she?
+Scattered into atoms, Martha's down.
+Commence the landings.
+Bring the humans here.
+Prepare the crucible.
+VOICE: Supreme Dalek, is there news?
+SUPREME DALEK: Earth has been subjugated.
+VOICE: I mean, is there news of him?
+SUPREME DALEK: Negative. No reports of Time Lord.
+We are beyond the Doctor's reach.
+VOICE: Fascinating.
+If I had not elevated you beyond crude emotions, I could almost mistake that tone for one of victory.
+Beware your pride, SUPREME DALEK: The Doctor cannot stop us.
+VOICE: And yet Dalek Caan is uneasy.
+SUPREME DALEK: The abomination is insane!
+VOICE: Show respect. Without Dalek Caan none of this would be possible.
+And he speaks only the truth.
+DALEK CAAN: He is coming.
+The three-fold man, he dances in the lonely places.
+Oh, creator of us all, the Doctor is coming!
+(LAUGHING MANIACALLY) (HEART BEATING) You need sustenance.
+Take the water. It purifies.
+Thanks.
+There was something on your back.
+How did you know that?
+You are something new.
+Not me.
+I'm just a temp. Shorthand, filing, 100 words per minute.
+Fat lot of good that is now. I'm no use to anyone.
+I'm so sorry for your loss.
+Yeah.
+My whole planet's gone.
+I mean the loss that is yet to come.
+God save you.
+Donna, think, Earth. There must have been some sort of warning.
+Was anything happening back in your day, like electrical storms, freak weather, patterns in the sky?
+Well, how should I know?
+Erm, no. I don't think so. No.
+Okay, never mind.
+Although...
+There were the bees disappearing.
+The bees disappearing?
+The bees disappearing.
+The bees disappearing!
+How is that significant?
+On Earth, we have these insects.
+Some people said it was pollution or mobile phone signals.
+Or they were going back home.
+Back home where?
+Planet Melissa Majoria.
+Are you saying bees are aliens?
+Don't be so daft. Not all of them.
+But if the migrant bees felt something coming, some danger, and escaped...
+Tandocca!
+The Tandocca Scale, The Tandocca Scale is a series of wavelengths used as carrier signals by migrant bees.
+Infinitely small. No wonder we didn't see it.
+It's like looking for a speck of cinnamon in the Sahara.
+Look! There it is! The Tandocca trail!
+The transmat that moved the planets was using the same wavelength.
+We can follow the path!
+DONNA: And find the Earth! Well, stop talking and do it!
+DOCTOR: I am!
+We're a bit late.
+The signal's scattered but it’s a start.
+I've got a blip! It's just a blip, but it's definitely a blip.
+Then according to the strictures of the Shadow Proclamation, I will have to seize your transport and your technology.
+Oh, really? What for?
+The planets were stolen with hostile intent.
+We are declaring war, Doctor.
+Right across the universe. And you will lead us into battle!
+Right. Yes.
+Of course I will.
+I'll just go and get you the key.
+(WHOOSHING) Doctor, come back!
+By the holy writ of the Shadow Proclamation, I order you to stop!
+All humans will leave their homes.
+All humans will leave their homes.
+The males, the females, the descendents, you will come with us!
+Resistance is useless.
+Where are you taking us?
+Daleks do not answer human questions.
+Stand in line!
+Dad, please, come home.
+They're leaving our street alone.
+I've got a weapon.
+It's a paint gun.
+Exactly.
+Them Dalek things, they've only got one eye.
+A good splodge of paint, they'd be blinded.
+We're not going! Do you hear me?
+Laura, get back inside the house.
+Simon, get inside! Go!
+Get back in the sky!
+Get back where you came from and leave us alone!
+Dalek attack formation seven.
+Maximum extermination!
+They're monsters.
+Please, Dad, come on.
+Halt! You will come with me.
+Will I heck!
+My vision is not impaired!
+I warned you, Dad.
+Hostility will not be tolerated! Exterminate! Exterminate!
+Exter...
+Do you wanna swap?
+You're Donna Noble's family, right?
+I'm Rose Tyler. And I need you.
+Yeah, I've tried calling her, but I can’t get through.
+But she's still with the Doctor.
+I know that much. And the last time she phoned, it was from a planet called Midnight, made of diamonds.
+What the hell are you two on about?
+Look, she's out there, sweetheart.
+Your daughter.
+She's travelling the stars with that Doctor.
+She always has been.
+Don't be ridiculous, Oh, come on, open your eyes. Look at the sky.
+Look at... Look at the Daleks. You can’t start denying things now.
+You were my last hope.
+If we can't find Donna, we can't find the Doctor.
+Where is he?
+(THUMPING) It's stopped.
+What do you mean?
+Is that good or bad? Where are we?
+The Medusa Cascade.
+I came here when I was just a kid, 90 years old.
+It was the centre of a rift in time and space.
+So, where are the 27 planets?
+Nowhere.
+The Tandocca trail stops dead.
+End of the line.
+So what do we do?
+Doctor, what do we do?
+Now, don't do this to me.
+No, don't.
+Don't do this to me.
+Not now.
+Tell me what are we going to do.
+You never give up.
+Please!
+This is the Commander General of the United Nations calling the Dalek fleet.
+We surrender, Repeat, we surrender.
+Planet Earth surrenders.
+DALEK: ... humans selected for testing will follow Dalek instructions.
+The Daleks reign supreme.
+All hail the Daleks!
+You will obey Dalek instructions without question.
+You will obey your Dalek.
+(TRANSMISSION SPUTTERING) WOMAN: Can anyone hear me?
+The Subwave Network is open. You should be able to hear my voice.
+Is there anyone there?
+I know that voice.
+Who's that?
+Some poor soul calling for help.
+There's nothing we can do.
+But look at Mr Smith.
+MR SMITH: Processing incoming Subwave.
+WOMAN: This message is of the utmost importance.
+We haven't much time.
+Can anyone hear me?
+Someone's trying to get in touch.
+The whole world's crying out. Just leave it.
+Captain Jack Harkness, shame on you!
+Now, stand to attention, sir.
+What?
+Who is that?
+Harriet Jones, former Prime Minister.
+Yeah, I know who you are.
+Harriet, it's me! It's me! She can't hear me.
+Have you got a webcam?
+No, she wouldn't let me. She said they're naughty.
+I can't speak to her then, can 1?
+Sarah Jane Smith, 13 Bannerman Road, are you there?
+Yeah, yeah, I'm here. That's me!
+Good!
+Now, let's see if we can talk to each other.
+The fourth contact seems to be having some trouble getting through.
+That's me! Harriet, that's me!
+I'll just boost the signal.
+Hello?
+Martha Jones!
+Who's she? I want to get through.
+Martha, where are you?
+I guess Project Indigo was more clever than we thought.
+One second I was in Manhattan...
+Next second, maybe Indigo tapped into my mind ‘cause I ended up in the one place I wanted to be.
+Mum?
+You came home.
+At the end of the world, you came back to me.
+But then all of a sudden, it's like the laptop turned itself on.
+It did. That was me.
+Harriet Jones, former Prime Minister.
+Yes, I know who you are.
+I thought it was about time we all met given the current crisis.
+Torchwood, this is Sarah Jane Smith.
+I've been following your work. Nice job with the Slitheen.
+Yeah, well, I've been staying away from you lot.
+Too many guns.
+All the same, might I say, looking good, ma'am?
+Really? Ooh!
+Not now, Captain.
+And Martha Jones, former companion to the Doctor.
+Oi, so was I!
+But how did you find me?
+This, ladies and gentlemen, this is the Subwave Network.
+A sentient piece of software programmed to seek out anyone and everyone who can help to contact the Doctor.
+What if the Daleks can here us?
+No.
+That's the beauty of the Subwave. It's undetectable.
+And you invented it?
+I developed it.
+It was created by the Mr Copper Foundation.
+Yeah, but what we need right now is a weapon.
+Martha, back at UNIT, what did they give you?
+What was that key thing?
+The Osterhagen Key.
+That key is not to be used, Dr Jones.
+Not under any circumstances.
+But what is an Osterhagen Key?
+Forget about the key! And that's an order!
+HARRIET: All we need is the Doctor.
+Oh, excuse me, Harriet, but well, the thing is, if you're looking for the Doctor, didn’t he depose you?
+He did.
+And I've wondered about that for a long time, whether I was wrong.
+But I stand by my actions to this day because I knew... I knew that one day, the Earth would be in danger.
+And the Doctor would fail to appear.
+I told him so myself, and he didn't listen.
+But I've been trying to find him.
+The Doctor's got my phone on the Tardis, but I can't get through.
+Nor me. And I was here first.
+That's why we need the Subwave. To bring us all together.
+Combine forces. The Doctor's secret army.
+Wait a minute. We boost the signal, that's it.
+We transmit that telephone number through Torchwood itself, ~using all the power of the rift...
+And we've got Mr Smith.
+He can link up with every telephone exchange on the Earth, He can get the whole world to call the same number all at the same time.
+Billions of phones calling out all at once!
+Brilliant! Who's the kid?
+That's my son.
+Excuse me, sorry.
+Sorry, hello. Ianto Jones.
+If we start transmitting, then this Subwave Network is going to become visible, I mean, to the Daleks.
+Yes, and they'll trace it back to me.
+But my life doesn't matter.
+Not if it saves the Earth.
+Ma’am.
+Thank you, Captain.
+But there are people out there dying on the streets.
+Marvellous woman. I voted for her.
+You did not!
+Now, enough of words, let's begin.
+Grid power activated.
+All terminals coordinated.
+National Grid online, giving you everything we've got.
+Connecting you to Mr Smith.
+All telephone networks combined.
+Sending you the number now.
+(PHONE DIALLING) Opening Subwave Network to maximum.
+Mr Smith?
+Make that call.
+MR SMITH: Calling the Doctor.
+So am I.
+And sending!
+(PHONE RINGING) Phone!
+Phone!
+Martha, is that you?
+It's just a signal.
+Can we follow it?
+Just watch me.
+Emergency! Unknown network detected! Subwave frequency!
+SUPREME DALEK: Find the point of origin. Find and exterminate!
+VOICE: I warned you, Supreme One.
+Just as Dalek Caan foretold.
+The children of time are moving against us.
+But everything is falling into place.
+I think we got a fix!
+Mr Smith now at 200%.
+Come on, Doctor!
+(WHISPERING) Find me, Doctor.
+Find me.
+Got it! Locking on.
+Harriet, a source's locked onto your location.
+They found you.
+I know. I'm using the network to mask your transmission. Keep going.
+Exterminate!
+DOCTOR: We're travelling through time.
+One second in the future. The phone call's pulling us through.
+Captain, I'm transferring the Subwave Network to Torchwood.
+You're in charge now.
+And tell the Doctor from me, he chose his companions well.
+It's been an honour.
+(EXPLOSION) Harriet Jones, former Prime Minister.
+Yas, we know who you are!
+Oh, you know nothing of any human.
+And that will be your downfall.
+Exterminate!
+Three, two, one!
+(BOTH YELLING) Twenty-seven planets.
+And there's the Earth.
+But why couldn't we see them?
+The entire Medusa Cascade has been put a second out of sync with the rest of universe, Perfect hiding place. Tiny little pocket of time, but we found them!
+Ooh, ooh.
+Ooh, what's that?
+Hold on, hold on.
+Some sort of Subwave Network.
+Where the hell have you been? Doctor, it's the Daleks!
+Oh, he's a bit nice, I thought he'd be older.
+He's not that young.
+SARAH JANE: It's the Daleks, they're taking people to their spaceship...
+(ALL TALKING AT ONCE) . It's not just Dalek Caan!
+That's Donna!
+That's my girl!
+Sarah Jane! Who's that boy?
+That must be Torchwood.
+Aren't they brilliant? Look at you all, you clever people.
+That's Martha. And who's he?
+Captain Jack. Don't. Just...
+Don't.
+Doctor, it's me.
+I came back.
+DONNA: It's like an outer space Facebook.
+Everyone except Rose.
+(LAUGHING) DALEK CAAN: He is here, The Dark Lord is come!
+Supreme One, this Subwave Network, I will address it. Give me access, We've lost them.
+No, no, no, no.
+There's another signal coming through. There's someone else out there.
+Hello? Can you hear me?
+Rose.
+Your voice is different and yet its arrogance is unchanged.
+No.
+But he's dead.
+Welcome to my new empire, Doctor.
+It is only fitting that you should bear witness to the resurrection and the triumph of Davros, lord and creator of the Dalek race.
+Doctor.
+DAVROS: Have you nothing to say?
+Doctor, it's all right.
+We're in the Tardis, We're safe.
+But you were destroyed.
+In the very first year of the Time War at the Gates of Elysium.
+I saw your command ship fly into the jaws of the Nightmare Child.
+I tried to save you.
+But it took one stronger than you.
+Dalek Caan himself.
+DALEK CAAN: I flew into the wild and fire.
+I danced and died a thousand times.
+Emergency temporal shift took him back into the Time War itself.
+But that's impossible! The entire war is time-locked!
+And yet he succeeded.
+Oh, it cost him his mind, but imagine, a single simple Dalek succeeded where emperors and Time Lords have failed.
+A testament, don't you think, to my remarkable creations?
+And you made a new race of Daleks.
+I gave myself to them.
+Quite literally.
+Each one grown from a cell of my own body.
+New Daleks. True Daleks.
+I have my children, Doctor.
+What do you have now?
+After all this time, everything we saw, everything we lost, I have only one thing to say to you.
+Bye!
+SUPREME DALEK: Emergency! Locate the Tardis! Find the Doctor!
+He will go to the Earth to find his precious human allies.
+DALEK CAAN: And death is coming.
+Oh, I can see it.
+Everlasting death for the most faithful companion.
+DALEK: Subwave Network rerouted! New location, Torchwood!
+SUPREME DALEK: Then exterminate them at once!
+Exterminate Torchwood!
+(ALARM BLARING) Gwen.
+Dalek saucer heading for the Bay. They've found us.
+Martha, open that Indigo device. Listen to me.
+Lift the central panel, there's a string of numbers that keep changing.
+But the fourth number keeps oscillating between two different digits.
+Tell me what they are.
+It's a four and a nine.
+We could never work out what that was.
+Yeah! That's a teleport base code.
+And that's all I need to get this thing working again.
+Oscillating four and nine.
+Thank you, Martha Jones.
+I gotta go. I gotta find the Doctor.
+I'll come back.
+I'm coming back.
+Don't worry about us. Just go.
+We'll be fine.
+JACK: You'd better be.
+Exterminate!
+Exterminate!
+They're here.
+MR SMITH: Tardis heading for vector 7. Grid reference 6-6...
+There are Daleks out there.
+I know.
+I'm sorry, but I have got to find the Doctor.
+Don't move, don't leave the house, don't do anything.
+MR SMITH: I will protect the boy, Sarah Jane.
+I love you.
+Remember that.
+Control, I need another shift. Lock me onto the Tardis. Now.
+Right, I'm gonna find him.
+Wish me luck.
+Oh, good luck!
+Yeah, good luck, sweetheart.
+It's like a ghost town.
+DOCTOR: Sarah Jane said they were taking the people.
+What for? Think, Donna.
+When you met Rose in that parallel world, what did she say?
+Just, “The darkness is coming." Anything else?
+Why don't you ask her yourself?
+Exterminate!
+I've got you. It missed you. Look, it's me, Doctor.
+Rose.
+Right.
+(GASPING) Long time no see. “Yeah.
+Been busy, you know.
+Don't die. No, don't die.
+My God, don't die.
+Get him into the Tardis, quick. Move!
+But they don’t work against Daleks.
+Yeah? Well, I'm going out fighting. Like Owen, like Tosh. How about you?
+Exterminate!
+Yes, ma'am!
+Exterminate!
+DONNA: What do we do?
+There must be some medicine, or something.
+Just step back. Rose, do as I say and get back!
+He's dying. And you know what happens next.
+What do you mean?
+He can't.
+Not now. I came all this way.
+What do you mean? What happens next?
+It's starting.
+(TYRES SCREECHING) All human transport is forbidden!
+I surrender! I'm sorry!
+Daleks do not accept apologies! You will be exterminated!
+Exterminate!
+Exterminate!
+Exterminate!
+Exterminate!
+(SHOUTING) JACK: Here we go. Good luck, Doctor!
+DONNA: Will someone please tell me what is going on?
+When he's dying, his body, it repairs itself. It changes.
+But you can't!
+I'm sorry, it’s too late.
+I'm regenerating.  @@@@@@
 @@@@@@
 It's fine.
 Everything's fine.
