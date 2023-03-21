@@ -85,3 +85,6 @@
 6.07 - Cursed
 6.08 - 9-1-1, What's Your Fantasy
 6.09 - Red Flags
+6.10 - In A Flash
+6.11 - In Another Life
+6.12 - Recovery
